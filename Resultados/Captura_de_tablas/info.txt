@@ -1,0 +1,1 @@
+En esta carpeta se almacenan las tablas obtenidas durante el analisis de los miRNAs.
