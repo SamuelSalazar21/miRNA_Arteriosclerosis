@@ -1,0 +1,1 @@
+En esta carpeta se almacenan los resultados obtenidos del analisis de los miRNAs objeto de estudio.
