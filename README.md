@@ -27,6 +27,8 @@ los estudiantes
 ---
 ## Estructura del proyecto
 
+```
+
 miRNA_arteriosclerosis/
 ├── datos/             # Archivos de datos simulados o reales (expresión de miRNAs, metadatos)
 ├── genes_dianas/      # Tablas o listados de genes diana predichos o validados para los miRNAs analizados
@@ -34,6 +36,7 @@ miRNA_arteriosclerosis/
 ├── resultados/        # Gráficos, tablas y salidas obtenidas tras ejecutar los análisis
 └── README.md          # Documento principal con la descripción completa del proyecto
 
+```
 ---
 ## Licencia
 - MIT license
