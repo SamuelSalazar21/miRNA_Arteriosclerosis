@@ -46,6 +46,8 @@ miRNA_arteriosclerosis/
 git clone https://github.com/usuario/miRNA_arteriosclerosis.git
 cd miRNA_arteriosclerosis
 
+```
+
 ---
 ## Proyecto desarrollado por:
 
@@ -54,4 +56,3 @@ cd miRNA_arteriosclerosis
 - Miller Esneyder Vargas Santiago
 - Frank Melo Restrepo
 - Samuel Salazar Díaz
-
