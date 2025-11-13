@@ -1,0 +1,1 @@
+Aqui se almacenan los archivos excel utilizados para el analisis de los miRNAs, obtenidos de Tarjetscan.
