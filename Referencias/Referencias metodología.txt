@@ -1,0 +1,11 @@
+Referencias 
+
+A continuación se presentan una serie de referencias que corresponden a las bases de datos o aplicaciones online donde se ha llevado a cabo la metodología
+
+1. Chen Y, Wang X. miRDB: an online database for prediction of functional microRNA targets. Nucleic Acids Res. 8 de enero de 2020;48(D1):D127-31.
+ 
+2. Draw Venn Diagram [Internet]. [citado 3 de noviembre de 2025]. Disponible en: https://bioinformatics.psb.ugent.be/webtools/Venn/
+
+3. The UniProt Consortium. UniProt: the Universal Protein Knowledgebase in 2025. Nucleic Acids Res. 6 de enero de 2025;53(D1):D609-17.
+
+4. Garcia-Moreno A, López-Domínguez R, Villatoro-García JA, Ramirez-Mena A, Aparicio-Puerta E, Hackenberg M, et al. Functional Enrichment Analysis of Regulatory Elements. Biomedicines. marzo de 2022;10(3):590. 
