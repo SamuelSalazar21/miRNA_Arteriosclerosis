@@ -34,6 +34,7 @@ miRNA_arteriosclerosis/
 ├── genes_dianas/      # Tablas o listados de genes diana predichos o validados para los miRNAs analizados
 ├── scripts/           # Scripts en Python o R usados para procesamiento, análisis y visualización
 ├── resultados/        # Gráficos, tablas y salidas obtenidas tras ejecutar los análisis
+├── referencias/       # Cuanta con archivos que brindan artículos y paginas web de utilidad
 └── README.md          # Documento principal con la descripción completa del proyecto
 
 ```
@@ -58,4 +59,4 @@ cd miRNA_arteriosclerosis
 - Luisa Ospina Londoño
 - Miller Esneyder Vargas Santiago
 - Frank Melo Restrepo
-- Samuel Salazar Díaz
+- Samuel Salazar Diaz

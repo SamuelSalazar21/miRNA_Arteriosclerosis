@@ -1,0 +1,23 @@
+Referencias 
+
+A continuación se presentan una serie de artículos científicos que pueden servir como referencia a la hora de realizar la discusión de los resultados obtenidos.
+
+1. McGeary SE, Lin KS, Shi CY, Pham TM, Bisaria N, Kelley GM, et al. The biochemical basis of microRNA targeting efficacy. Science. 20 de diciembre de 2019;366(6472):eaav1741.
+ 
+2. Wang J, Xiao Q, Wang L, Wang Y, Wang D, Ding H. Role of ABCA1 in Cardiovascular Disease. J Pers Med. 20 de junio de 2022;12(6):1010.
+ 
+3. Yu XH, Tang CK. ABCA1, ABCG1, and Cholesterol Homeostasis. En: Zheng L, editor. HDL Metabolism and Diseases [Internet]. Singapore: Springer Nature; 2022 [citado 3 de noviembre de 2025]. p. 95-107. Disponible en: https://doi.org/10.1007/978-981-19-1592-5_7
+
+4. Chen L, Zhao ZW, Zeng PH, Zhou YJ, Yin WJ. Molecular mechanisms for ABCA1-mediated cholesterol efflux. Cell Cycle. 3 de junio de 2022;21(11):1121-39. 
+
+5. Bezsonov E, Chernyi N, Saruhanyan M, Shimchenko D, Bondar N, Gavrilova D, et al. Gene Therapy Approaches for Atherosclerosis Focusing on Targeting Lipid Metabolism and Inflammation. Int J Mol Sci. enero de 2025;26(14):6950. 
+
+6. Matsuo M. ABCA1 and ABCG1 as potential therapeutic targets for the prevention of atherosclerosis. J Pharmacol Sci. 1 de febrero de 2022;148(2):197-203.
+ 
+7. Haas MJ, Mooradian AD. Potential Therapeutic Agents That Target ATP Binding Cassette A1 (ABCA1) Gene Expression. Drugs. 1 de julio de 2022;82(10):1055-75. 
+
+8. Stamatikos A, Dronadula N, Ng P, Palmer D, Knight E, Wacker BK, et al. ABCA1 Overexpression in Endothelial Cells In Vitro Enhances ApoAI-Mediated Cholesterol Efflux and Decreases Inflammation. Hum Gene Ther. febrero de 2019;30(2):236-48. 
+
+9. Miroshnikova V, Panteleeva A, Demina E, Usenko T, Bazhenova E, Semenova I, et al. Relationship of orphan receptor RORα and cholesterol transporters ABCA1 and ABCG1 expression in visceral adipose tissue. Atherosclerosis. 1 de septiembre de 2016;252:e130. 
+
+10. Costet P, Luo Y, Wang N, Tall AR. Sterol-dependent transactivation of the ABC1 promoter by the liver X receptor/retinoid X receptor. J Biol Chem. 8 de septiembre de 2000;275(36):28240-5.
