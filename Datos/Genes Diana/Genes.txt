@@ -1,0 +1,3 @@
+## Genes diana
+
+En esta carpeta se cargan una serie de archivos sobre unos posibles genes diana para terapia génica para tratar al arteriosclerosis.

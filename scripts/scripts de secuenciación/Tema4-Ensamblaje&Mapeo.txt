@@ -1,0 +1,78 @@
+# Una vez que tenemos los fastq filtrados podemos proceder a lo que se denomina como análisis "downstream", esto puede englobar ensamblados, alineamientos entre secuencias, mapeo contra referencia y sus posteriores análisis derivados.
+
+# 1. Otro posible paso es el mapeo de las muestras contra un genoma de referencia.
+
+## 1.1. Para ello, vamos a enfrentar todas las lecturas de nuestros fastq para ver en qué ubicación exacta se localizan y poder tener información sobre la cobertura y profundidad de lectura.
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ bwa --help
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ samtools --help
+
+
+### 1.2. La mayoría de programas dedicados al mapeo de lecturas requiere que indexemos el genoma de referencia antes de ejecutarlo.
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ bwa index Reference/NC_045512.2.fasta # Primero indexamos el genoma
+
+
+## 1.3. Una vez indexada la referencia, enfrentamos nuestros ficheros a la referencia.
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ mkdir -p Mapped/Filtered
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ bwa mem -Y -M -t 32 -o Mapped/Muestra1.sam Reference/NC_045512.2.fasta Trimmed/Muestra1_R1_filtered.fastq.gz Trimmed/Muestra1_R2_filtered.fastq.gz
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ for i in $(cat muestras.txt); do bwa mem -Y -M -t 32 -o Mapped/$i".sam" Reference/NC_045512.2.fasta Trimmed/$i*R1* Trimmed/$i*R2*; done
+
+
+## 1.4. El mapeo nos va a generar unos ficheros SAM donde se almacena la información del análisis, no obstante suelen ser ficheros pesados, desestructurados y conviene convertirlos a formato BAM para mejor eficiencia (visual y analítica).
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ samtools view -Sb Mapped/Muestra1.sam --threads 32 -o Mapped/Muestra1".bam"
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ for i in $(cat muestras.txt); do samtools view -Sb Mapped/$i.sam --threads 32 -o Mapped/$i".bam"; done 
+
+## Además, se recomienda ordenarlo con la función 'sort' de samtools para ordenar las lecturas que sean similares, justamente para esa optimización computacional.
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ samtools sort Mapped/Muestra1*bam -o Mapped/Filtered/Muestra1"_sorted.bam"
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ for i in $(cat muestras.txt); do samtools sort Mapped/$i*bam -o Mapped/Filtered/$i"_sorted.bam"; done
+
+
+## 1.5. Acto seguido podemos evaluar la calidad del mapeo, para verificar que es correcto.
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ qualimap --help
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ qualimap bamqc --help
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ qualimap bamqc -bam Mapped/Filtered/Muestra1_sorted.bam -outdir Mapped/Filtered/Quality/Muestra1
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ for i in $(cat muestras.txt); do qualimap bamqc -bam Mapped/Filtered/$i"_sorted.bam" -outdir Mapped/Filtered/Quality/$i; done
+
+
+# 2. Comenzamos con el ensamblado de las muestras. 
+
+## 2.1. En este punto, es muy importante antes de comenzar hacer una pequeña reflexión de con qué tecnología estamos trabajando y qué organismo hemos secuenciado, ya que estas preguntas enfocarán los esfuerzos a qué programa podemos utilizar que se adapte mejor a nuestra pregunta biológica.
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ unicycler --help
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ unicycler -1 Trimmed/Muestra1*R1* -2 Trimmed/Muestra1*R2* -o Assembly/Muestra1 -t 32
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ for i in $(cat muestras.txt); do unicycler -1 Trimmed/$i*R1* -2 Trimmed/$i*R2* -o Assembly/$i -t 32; done
+
+
+## 2.2. Al igual que en el mapeo, también podemos evaluar la calidad del ensamblado donde podremos observar cuántos fragmentos ha generado nuestra muestra, el contenido GC, la N50, una comparación con un genoma de referencia...
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ quast --help
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ quast Assembly/Muestra1/assembly.fasta -o Assembly/Quality/RAW/Muestra1 -t 32; done
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ for i in $(cat muestras.txt); do quast Assembly/$i/assembly.fasta -o Assembly/Quality/RAW/$i -t 32; done
+
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ quast Assembly/Muestra1/assembly.fasta -r Reference/NC_045512.2.fasta -o Assembly/Quality/REF/Muestra1 -t 32
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4$ for i in $(cat muestras.txt); do quast Assembly/$i/assembly.fasta -r Reference/NC_045512.2.fasta -o Assembly/Quality/REF/$i -t 32; done
+
+
+# 3. Por último, haremos una anotación funcional, en el cual detectaremos los diferentes ORFs (CDS, regiones codificantes) para hacer una búsqueda en las bases de datos y devolver información sobre la función de las regiones codificantes.
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4/BONUS$ prokka --help
+
+(Tema4) laura@laura-intel-nox:/media/8TB/UNIR/Tema4/BONUS$ prokka Assembly/SRR35980167/assembly.fasta --outdir Annotation/SRR35980167 --prefix SRR35980167 --cpus 32
