@@ -19,7 +19,7 @@ Proporcionar un entorno práctico y colaborativo que permita a los integrantes d
 control de versiones y colaboración en proyectos de bioinformática.
 2. Enseñar a los estudiantes a crear un repositorio en GitHub y gestionar sus archivos
 y carpetas.
-3.  Promover la colaboración y el trabajo en equipo a través de la creación de un
+3. Promover la colaboración y el trabajo en equipo a través de la creación de un
 repositorio compartido.
 4. Fomentar la presentación y el intercambio de proyectos de bioinformática entre
 los estudiantes
@@ -30,11 +30,10 @@ los estudiantes
 ```
 
 miRNA_arteriosclerosis/
-├── datos/             # Archivos de datos simulados o reales (expresión de miRNAs, metadatos)
-├── genes_dianas/      # Tablas o listados de genes diana predichos o validados para los miRNAs analizados
-├── scripts/           # Scripts en Python o R usados para procesamiento, análisis y visualización
-├── resultados/        # Gráficos, tablas y salidas obtenidas tras ejecutar los análisis
-├── referencias/       # Cuanta con archivos que brindan artículos y paginas web de utilidad
+├── Datos/             # Archivos de datos simulados o reales y listados de genes diana predichos o validados para los miRNAs
+├── Scripts/           # Scripts en Python o R usados para procesamiento, análisis y visualización
+├── Resultados/        # Gráficos, tablas y salidas obtenidas tras ejecutar los análisis
+├── Referencias/       # Cuanta con archivos que brindan artículos y paginas web de utilidad
 └── README.md          # Documento principal con la descripción completa del proyecto
 
 ```
