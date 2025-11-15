@@ -1,0 +1,3 @@
+## Scripts de secuenciación
+
+Se cargaran scripts con las indicación para analizar las secuencias de los genes obtenidas por NGS.
