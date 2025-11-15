@@ -1,1 +1,0 @@
-En esta carpeta estan las secuencias en formato fasta de los genes a los que los miRNA se acoplarian.
