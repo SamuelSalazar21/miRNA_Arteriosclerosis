@@ -30,11 +30,12 @@ los estudiantes
 ```
 
 miRNA_arteriosclerosis/
-├── Datos/             # Archivos de datos simulados o reales y listados de genes diana predichos o validados para los miRNAs
-├── Scripts/           # Scripts en Python o R usados para procesamiento, análisis y visualización
-├── Resultados/        # Gráficos, tablas y salidas obtenidas tras ejecutar los análisis
-├── Referencias/       # Cuanta con archivos que brindan artículos y paginas web de utilidad
-└── README.md          # Documento principal con la descripción completa del proyecto
+├── Bioética/          # Permisos de bioética, consentimiento y confidencialidad.   
+├── Datos/             # Archivos de la propuesta de investigación y genes diana predichos para los miRNAs.
+├── Scripts/           # Scripts en Python o R usados para procesamiento, análisis y visualización.
+├── Resultados/        # Gráficos, tablas y salidas obtenidas tras ejecutar los análisis.
+├── Referencias/       # Cuanta con archivos que brindan artículos y paginas web de utilidad.
+└── README.md          # Documento principal con la descripción completa del proyecto.
 
 ```
 ---
