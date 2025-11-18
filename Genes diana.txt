@@ -1,2 +1,0 @@
-Ontology (GO) Biological Process, Kyoto Encyclopedia of Genes and Genomes (KEGG) y Reactome.
-Se realizó la observación para los genes diana (KPNA3, SCN1A, TSC22D2, ABCA1 y SNTB2)
