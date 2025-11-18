@@ -54,7 +54,7 @@ colData <- read.table(coldata_file, header=T, sep = "\t",
 head(colData)
 View(colData)
 pheatmap(tpm[selectedGenes, ], scale="row", show_rownames = F,
-         annotation_col = colData)
+         annotation_col = colData) #tutoraril heapmap
 ##PCA----
 library(stats)
 library(ggplot2)
@@ -296,6 +296,7 @@ par(mfrow=c(1,2))
 plotRLE(tpm, outline=F, ylim=c(-4,4), col=as.numeric(colData$group))
 plotPCA(tpm, col=as.numeric(colData$group), adj=0.5,
         ylim=c(-0.7,0.5), xlim=c(-0.5,0.5))
+
 
 
 
