@@ -1,6 +1,6 @@
 if (!requireNamespace("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
-BiocManager::install(c('qvalue','plot3D','ggplot2','pheatmap','cowplot',
+BiocManager::install(c('qvalue','plot3D','ggplot2','pheatmap','cowplot', 
                        'cluster', 'NbClust', 'fastICA', 'NMF','matrixStats',
                        'Rtsne', 'mosaic', 'knitr', 'genomation',
                        'ggbio', 'Gviz', 'DESeq2', 'RUVSeq',
@@ -16,9 +16,9 @@ BiocManager::install(c('qvalue','plot3D','ggplot2','pheatmap','cowplot',
                        'BSgenome.Hsapiens.UCSC.hg19','tidyr',
                        'AnnotationHub', 'GenomicFeatures', 'normr',
                        'MotifDb', 'TFBSTools', 'rGADEM', 'JASPAR2018'
-))
-install.packages("devtools")
-devtools::install_github("compgenomr/compGenomRData")
+)) #instalación de paquetes de bioinformatica
+install.packages("devtools") #instalación de paquetes devtools
+devtools::install_github("compgenomr/compGenomRData") #intalaciión de paquete desde un repositorio de git hub
 options(timeout=800)
 
 enhancerFilePath=system.file("extdata",
@@ -217,5 +217,6 @@ cov.track
 
 plotTracks(list( cpgi.track,gene.track, cov.track), from=27698681, to=28083310,
            chromosome = "chr21")
+
 
 
