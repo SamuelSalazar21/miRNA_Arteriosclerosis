@@ -1,3 +1,6 @@
+
+
+#tutorial de shiny
 # install.packages("shiny")
 # library(shiny)
 # library(bslib)
@@ -234,6 +237,7 @@ server <- function(input, output, session) {
 
 shinyApp(ui = ui, server = server)
   
+
 
 
 
