@@ -1,3 +1,4 @@
+#fasqc
 library(Rqc)
 folder=system.file(package = "ShortRead", "extdata/E-MTAB-1147")
 
@@ -73,3 +74,4 @@ genomeFile <- "extdata/hg19sub.fa"
 sampleFile <- "extdata/samples_chip_single.txt"
 proj <- qAlign(sampleFile,genomeFile)
 proj
+
