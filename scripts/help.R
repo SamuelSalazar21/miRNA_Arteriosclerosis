@@ -1,3 +1,5 @@
+#Script para graficar rangos genomicos
+
 queryi<- IRanges(c(1,65,66,300),c(5,80,80,500)) 
 queryi
 subjecti<- IRanges(c(5,30,100,105), c(10,60,104,200)) 
@@ -172,3 +174,4 @@ names(gostres)
 View(head(gostres$result, 3))
 
 get_version_info(organism = "hsapiens")
+
