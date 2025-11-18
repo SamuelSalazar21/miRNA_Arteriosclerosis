@@ -30,6 +30,7 @@ los estudiantes
 ```
 
 miRNA_arteriosclerosis/
+├── Dataset/           # Archivos con extension ".csv"
 ├── datos/             # Archivos de datos simulados o reales (expresión de miRNAs, metadatos)
 ├── genes_dianas/      # Tablas o listados de genes diana predichos o validados para los miRNAs analizados
 ├── scripts/           # Scripts en Python o R usados para procesamiento, análisis y visualización
