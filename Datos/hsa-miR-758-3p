@@ -1,0 +1,272 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT	Previous TargetScan publication(s)
+ZNF772	ENST00000425074.3	zinc finger protein 772 	22	1	1	0	0	1	1	0	0	1	hsa-miR-758-3p	0.0349	0.2337	1.0356	-0.86	-0.86	N/A	NULL
+SUCNR1	ENST00000362032.5	succinate receptor 1 	5	1	1	0	0	3	1	1	1	0	hsa-miR-758-3p	0.0565	0.3793	1.7251	-0.77	-0.77	N/A	NULL
+SLC25A16	ENST00000609923.1	solute carrier family 25 (mitochondrial carrier; Graves disease autoantigen), member 16 	206	1	1	0	0	1	0	1	0	1	hsa-miR-758-3p	0.0233	0.1567	0.7251	-0.61	-0.63	N/A	NULL
+AL627171.2	ENST00000595378.1	HCG1786899; PRO2610; Uncharacterized protein  	5	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0167	0.1127	0.5212	-0.58	-0.58	N/A	NULL
+MAP2K1	ENST00000307102.5	mitogen-activated protein kinase kinase 1 	8	1	1	0	0	1	1	0	0	0	hsa-miR-758-3p	0.0414	0.2615	0.9413	-0.57	-0.66	N/A	2011
+C9orf38	ENST00000355513.4	chromosome 9 open reading frame 38 	5	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0289	0.1829	0.6698	-0.57	-0.57	N/A	NULL
+AC012215.1	ENST00000437887.1	Uncharacterized protein  	31	1	1	0	0	2	0	1	1	0	hsa-miR-758-3p	0.0188	0.1318	0.7125	-0.57	-0.57	N/A	NULL
+LIN7A	ENST00000552864.1	lin-7 homolog A (C. elegans) 	86	1	1	0	0	1	0	0	1	1	hsa-miR-758-3p	0.0413	0.2477	0.8087	-0.50	-0.52	N/A	2007, 2009, 2011
+PPP1R7	ENST00000234038.6	protein phosphatase 1, regulatory subunit 7 	119	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0117	0.0810	0.4135	-0.49	-0.49	N/A	2007, 2009, 2011
+NAA40	ENST00000377793.4	N(alpha)-acetyltransferase 40, NatD catalytic subunit 	217	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0344	0.2234	0.8716	-0.48	-0.64	N/A	NULL
+RBM15B	ENST00000323686.4	RNA binding motif protein 15B 	1925	1	1	0	0	1	0	1	0	2	hsa-miR-758-3p	0.0089	0.0624	0.3377	-0.48	-0.57	N/A	2011
+C5orf15	ENST00000231512.3	chromosome 5 open reading frame 15 	988	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0184	0.1220	0.5181	-0.46	-0.46	N/A	NULL
+RAD51	ENST00000423169.2	RAD51 recombinase 	838	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0176	0.1170	0.4947	-0.46	-0.46	N/A	2009, 2011
+CCDC79	ENST00000433574.1	coiled-coil domain containing 79 	5	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0119	0.0844	0.4918	-0.46	-0.46	N/A	NULL
+MEPE	ENST00000424957.3	matrix extracellular phosphoglycoprotein 	5	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0227	0.1507	0.6558	-0.46	-0.46	N/A	2007, 2009, 2011
+VMP1	ENST00000262291.4	vacuole membrane protein 1 	2505	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0218	0.1444	0.6182	-0.38	-0.38	N/A	NULL
+B3GNT9	ENST00000449549.3	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 9 	56	2	1	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0194	0.1332	0.6756	-0.36	-0.36	N/A	2007, 2009, 2011
+STK40	ENST00000359297.2	serine/threonine kinase 40 	214	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0266	0.1713	0.6832	-0.35	-0.40	N/A	2007, 2009, 2011
+CNNM4	ENST00000540067.1	cyclin M4 	1249	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0126	0.0869	0.4329	-0.34	-0.34	N/A	2007, 2009, 2011
+AC138655.1	ENST00000601243.1	CDNA: FLJ23120 fis, clone LNG07989; HCG1987724; Uncharacterized protein  	5	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0185	0.1237	0.5513	-0.34	-0.34	N/A	NULL
+ILK	ENST00000537806.1	integrin-linked kinase 	491	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0094	0.0658	0.3474	-0.33	-0.34	N/A	2011
+SLC14A1	ENST00000321925.4	solute carrier family 14 (urea transporter), member 1 	190	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0201	0.1316	0.5395	-0.33	-0.39	N/A	2009, 2011
+PUM2	ENST00000338086.5	pumilio RNA-binding family member 2 	1047	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0287	0.1881	0.8104	-0.33	-0.33	N/A	2007, 2009, 2011
+PGP	ENST00000333503.7	phosphoglycolate phosphatase 	153	1	0	1	0	1	1	0	0	0	hsa-miR-758-3p	0.0180	0.1242	0.6263	-0.32	-0.40	N/A	2009, 2011
+ZFPM2	ENST00000407775.2	zinc finger protein, FOG family member 2 	595	1	0	1	0	1	0	0	1	0	hsa-miR-758-3p	0.0186	0.1285	0.6643	-0.32	-0.32	N/A	2007, 2009, 2011
+CAMK4	ENST00000282356.4	calcium/calmodulin-dependent protein kinase IV 	73	1	1	0	0	3	1	0	2	2	hsa-miR-758-3p	0.0323	0.2192	1.0881	-0.32	-0.40	N/A	NULL
+MRPL3	ENST00000264995.3	mitochondrial ribosomal protein L3 	943	1	1	0	0	3	0	2	1	3	hsa-miR-758-3p	0.0104	0.0725	0.3864	-0.31	-0.69	N/A	NULL
+BMP7	ENST00000395863.3	bone morphogenetic protein 7 	83	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0159	0.1069	0.4743	-0.30	-0.30	N/A	2007, 2009, 2011
+GOLPH3	ENST00000265070.6	golgi phosphoprotein 3 (coat-protein) 	1157	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0202	0.1324	0.5300	-0.30	-0.30	N/A	2009, 2011
+DCDC2B	ENST00000409358.1	doublecortin domain containing 2B 	5	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0057	0.0405	0.2379	-0.29	-0.29	N/A	NULL
+TSC22D2	ENST00000361875.3	TSC22 domain family, member 2 	1062	1	0	1	0	1	0	0	1	2	hsa-miR-758-3p	0.0187	0.1253	0.5644	-0.29	-0.31	N/A	2007
+C1orf198	ENST00000366663.5	chromosome 1 open reading frame 198 	1484	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0176	0.1144	0.4519	-0.29	-0.35	N/A	2009, 2011
+MIA3	ENST00000344922.5	melanoma inhibitory activity family, member 3 	647	1	1	0	0	1	1	0	0	0	hsa-miR-758-3p	0.0187	0.1296	0.6932	-0.28	-0.63	N/A	NULL
+TFRC	ENST00000540528.1	transferrin receptor 	296	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0090	0.0624	0.3235	-0.28	-0.30	N/A	2007, 2009
+ST6GAL2	ENST00000361686.4	ST6 beta-galactosamide alpha-2,6-sialyltranferase 2 	5	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0218	0.1482	0.7219	-0.28	-0.28	N/A	2011
+SEPT8	ENST00000378706.1	septin 8 	199	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0196	0.1319	0.6020	-0.28	-0.33	N/A	NULL
+HLF	ENST00000226067.5	hepatic leukemia factor 	15	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0259	0.1764	0.8548	-0.27	-0.30	N/A	2007, 2009, 2011
+MEIS2	ENST00000397624.3	Meis homeobox 2 	63	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0225	0.1454	0.5895	-0.27	-0.34	N/A	2007, 2009, 2011
+FAM126A	ENST00000409923.1	family with sequence similarity 126, member A 	241	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0229	0.1557	0.7592	-0.27	-0.27	N/A	NULL
+FRRS1L	ENST00000561981.2	ferric-chelate reductase 1-like 	11	1	1	0	0	2	0	1	1	1	hsa-miR-758-3p	0.0356	0.2335	1.0295	-0.26	-0.27	N/A	NULL
+VAPB	ENST00000395802.3	VAMP (vesicle-associated membrane protein)-associated protein B and C 	391	1	0	1	0	3	0	1	2	0	hsa-miR-758-3p	0.0155	0.1124	0.7313	-0.26	-0.27	N/A	2009, 2011
+ZNF618	ENST00000288466.7	zinc finger protein 618 	778	1	1	0	0	1	1	0	0	2	hsa-miR-758-3p	0.0362	0.2479	1.2462	-0.26	-0.26	N/A	2009, 2011
+PGRMC1	ENST00000217971.7	progesterone receptor membrane component 1 	762	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0077	0.0541	0.2932	-0.26	-0.37	N/A	2009, 2011
+TMPPE	ENST00000416695.2	transmembrane protein with metallophosphoesterase domain 	22	1	0	1	0	2	2	0	0	1	hsa-miR-758-3p	0.0230	0.1572	0.7702	-0.26	-0.31	N/A	NULL
+FBN1	ENST00000316623.5	fibrillin 1 	798	1	0	1	0	1	0	1	0	0	hsa-miR-758-3p	0.0226	0.1564	0.8197	-0.26	-0.31	N/A	2007, 2009, 2011
+DARS2	ENST00000361951.4	aspartyl-tRNA synthetase 2, mitochondrial 	422	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0239	0.1577	0.6999	-0.25	-0.43	N/A	2011
+NOP2	ENST00000545200.1	NOP2 nucleolar protein 	27	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0136	0.0929	0.4509	-0.25	-0.25	N/A	NULL
+ST6GALNAC3	ENST00000328299.3	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 	41	1	1	0	0	3	0	1	2	1	hsa-miR-758-3p	0.0300	0.2078	1.1057	-0.25	-0.26	N/A	NULL
+AHCY	ENST00000217426.2	adenosylhomocysteinase 	27	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0273	0.1717	0.6154	-0.25	-0.26	N/A	2007, 2009, 2011
+DNAJC28	ENST00000381947.3	DnaJ (Hsp40) homolog, subfamily C, member 28 	24	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0265	0.1655	0.6134	-0.25	-0.35	N/A	NULL
+RHOQ	ENST00000238738.4	ras homolog family member Q 	179	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0149	0.1022	0.5006	-0.24	-0.25	N/A	2007, 2011
+CPEB4	ENST00000265085.5	cytoplasmic polyadenylation element binding protein 4 	472	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0531	0.2931	0.7542	-0.24	-0.24	N/A	2007, 2009, 2011
+CDH6	ENST00000265071.2	cadherin 6, type 2, K-cadherin (fetal kidney) 	213	1	0	0	1	2	1	0	1	0	hsa-miR-758-3p	0.0118	0.0820	0.4361	-0.23	-0.26	N/A	NULL
+KDM6A	ENST00000377967.4	lysine (K)-specific demethylase 6A 	991	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0250	0.1624	0.6617	-0.23	-0.23	N/A	2007, 2009, 2011
+RABEP1	ENST00000262477.6	rabaptin, RAB GTPase binding effector protein 1 	1163	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0118	0.0824	0.4439	-0.23	-0.23	N/A	2009, 2011
+PRKAR2B	ENST00000265717.4	protein kinase, cAMP-dependent, regulatory, type II, beta 	148	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0125	0.0866	0.4402	-0.23	-0.25	N/A	2011
+SUN2	ENST00000405510.1	Sad1 and UNC84 domain containing 2 	501	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0193	0.1269	0.5177	-0.23	-0.23	N/A	2007, 2009, 2011
+CIRH1A	ENST00000314423.7	cirrhosis, autosomal recessive 1A (cirhin) 	1015	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0018	0.0129	0.0881	-0.22	-0.22	N/A	NULL
+TAB1	ENST00000216160.6	TGF-beta activated kinase 1/MAP3K7 binding protein 1 	577	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0162	0.1085	0.4741	-0.22	-0.24	N/A	2009, 2011
+AQPEP	ENST00000357872.4	Aminopeptidase Q  	11	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0150	0.1037	0.5211	-0.22	-0.22	N/A	2009, 2011
+LYRM2	ENST00000520318.1	LYR motif containing 2 	305	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0077	0.0554	0.3526	-0.22	-0.23	N/A	2009, 2011
+ZNF613	ENST00000293471.6	zinc finger protein 613 	131	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0103	0.0685	0.3026	-0.22	-0.44	N/A	NULL
+FAM13A	ENST00000395002.2	family with sequence similarity 13, member A 	441	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0163	0.1098	0.4979	-0.22	-0.23	N/A	2007, 2009, 2011
+C6orf120	ENST00000332290.2	chromosome 6 open reading frame 120 	1415	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0188	0.1253	0.5582	-0.22	-0.28	N/A	2007
+TVP23A	ENST00000299866.8	trans-golgi network vesicle protein 23 homolog A (S. cerevisiae) 	5	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0106	0.0760	0.4576	-0.22	-0.22	N/A	NULL
+CYP7B1	ENST00000310193.3	cytochrome P450, family 7, subfamily B, polypeptide 1 	53	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0262	0.1718	0.7311	-0.22	-0.22	N/A	2007, 2009, 2011
+ZBTB7A	ENST00000322357.4	zinc finger and BTB domain containing 7A 	37	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0191	0.1313	0.6704	-0.21	-0.21	N/A	2007, 2009, 2011
+ADAMTS17	ENST00000268070.4	ADAM metallopeptidase with thrombospondin type 1 motif, 17 	19	1	1	0	0	2	0	1	1	0	hsa-miR-758-3p	0.0308	0.2041	0.9027	-0.21	-0.21	N/A	2009, 2011
+FLI1	ENST00000527786.2	Fli-1 proto-oncogene, ETS transcription factor 	116	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0043	0.0310	0.1992	-0.21	-0.21	N/A	2007, 2009, 2011
+PKIA	ENST00000396418.2	protein kinase (cAMP-dependent, catalytic) inhibitor alpha 	542	1	0	0	1	1	0	0	1	4	hsa-miR-758-3p	0.0041	0.0298	0.2031	-0.20	-0.26	N/A	2011
+MMP16	ENST00000286614.6	matrix metallopeptidase 16 (membrane-inserted) 	12	1	0	1	0	4	0	2	2	2	hsa-miR-758-3p	0.0247	0.1764	1.0666	-0.20	-0.28	N/A	NULL
+TMEM65	ENST00000297632.6	transmembrane protein 65 	769	1	0	1	0	2	0	0	2	1	hsa-miR-758-3p	0.0085	0.0620	0.4140	-0.20	-0.24	N/A	2009, 2011
+ABCA1	ENST00000374736.3	ATP-binding cassette, sub-family A (ABC1), member 1 	184	1	1	0	0	1	0	1	0	1	hsa-miR-758-3p	0.0234	0.1559	0.7054	-0.20	-0.21	N/A	2009, 2011
+SNTB2	ENST00000336278.4	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2) 	254	1	0	1	0	1	0	0	1	1	hsa-miR-758-3p	0.0126	0.0902	0.5557	-0.18	-0.18	N/A	2009, 2011
+MAP4K3	ENST00000263881.3	mitogen-activated protein kinase kinase kinase kinase 3 	796	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0123	0.0865	0.4833	-0.18	-0.18	N/A	2009, 2011
+HNRNPU	ENST00000444376.2	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A) 	5343	1	0	1	0	0	0	0	0	3	hsa-miR-758-3p	0.0093	0.0649	0.3565	-0.18	-0.29	N/A	2007, 2009, 2011
+NUP37	ENST00000552283.1	nucleoporin 37kDa 	458	1	0	0	1	2	0	0	2	0	hsa-miR-758-3p	0.0017	0.0121	0.0830	-0.18	-0.25	N/A	NULL
+DCUN1D1	ENST00000292782.4	DCN1, defective in cullin neddylation 1, domain containing 1 	267	1	0	0	1	2	1	0	1	1	hsa-miR-758-3p	0.0117	0.0826	0.4820	-0.18	-0.31	N/A	NULL
+STXBP1	ENST00000373302.3	syntaxin binding protein 1 	295	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0300	0.1873	0.6871	-0.18	-0.21	N/A	2007, 2009, 2011
+TCEB1	ENST00000518127.1	transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C) 	637	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0019	0.0140	0.0955	-0.18	-0.18	N/A	2011
+RNF150	ENST00000515673.2	ring finger protein 150 	518	1	1	0	0	1	0	0	1	1	hsa-miR-758-3p	0.0199	0.1410	0.8191	-0.18	-0.23	N/A	NULL
+FAM161A	ENST00000404929.1	family with sequence similarity 161, member A 	275	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0088	0.0617	0.3305	-0.17	-0.17	N/A	2011
+GLTSCR1	ENST00000396720.3	glioma tumor suppressor candidate region gene 1 	36	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0191	0.1290	0.6003	-0.17	-0.17	N/A	2007, 2009, 2011
+SCN1A	ENST00000423058.2	sodium channel, voltage-gated, type I, alpha subunit 	21	1	0	1	0	1	0	0	1	3	hsa-miR-758-3p	0.0185	0.1309	0.7517	-0.17	-0.18	N/A	NULL
+XPO4	ENST00000400602.2	exportin 4 	718	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0200	0.1386	0.7121	-0.17	-0.18	N/A	2009, 2011
+WDR31	ENST00000341761.4	WD repeat domain 31 	23	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0137	0.0956	0.5070	-0.17	-0.17	N/A	NULL
+ZRSR1	ENST00000391338.1	zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 1 	17	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0345	0.1855	0.4671	-0.16	-0.29	N/A	NULL
+SLC12A3	ENST00000438926.2	solute carrier family 12 (sodium/chloride transporter), member 3 	5	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0211	0.1373	0.5405	-0.16	-0.16	N/A	NULL
+SLC38A1	ENST00000398637.5	solute carrier family 38, member 1 	1967	2	1	1	0	1	0	0	1	3	hsa-miR-758-3p	0.0235	0.1593	0.7966	-0.16	-0.24	N/A	2009, 2011
+ANGPTL3	ENST00000371129.3	angiopoietin-like 3 	59	1	0	1	0	0	0	0	0	6	hsa-miR-758-3p	0.0071	0.0519	0.3447	-0.16	-0.30	N/A	NULL
+PDE7B	ENST00000308191.6	phosphodiesterase 7B 	148	1	1	0	0	0	0	0	0	2	hsa-miR-758-3p	0.0087	0.0618	0.3650	-0.16	-0.28	N/A	2009, 2011
+MXD1	ENST00000264444.2	MAX dimerization protein 1 	183	1	1	0	0	1	0	0	1	1	hsa-miR-758-3p	0.0129	0.0912	0.5202	-0.16	-0.16	N/A	2009, 2011
+GAD2	ENST00000376261.3	glutamate decarboxylase 2 (pancreatic islets and brain, 65kDa) 	5	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0142	0.0995	0.5500	-0.16	-0.16	N/A	2011
+CALCR	ENST00000359558.2	calcitonin receptor 	5	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0085	0.0603	0.3520	-0.15	-0.15	N/A	2009, 2011
+MOB3B	ENST00000262244.5	MOB kinase activator 3B 	52	1	1	0	0	1	0	0	1	1	hsa-miR-758-3p	0.0130	0.0861	0.3917	-0.15	-0.38	N/A	2009, 2011
+USP15	ENST00000353364.3	ubiquitin specific peptidase 15 	286	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0061	0.0434	0.2551	-0.15	-0.15	N/A	2007, 2009, 2011
+HIPK3	ENST00000303296.4	homeodomain interacting protein kinase 3 	933	1	1	0	0	0	0	0	0	2	hsa-miR-758-3p	0.0183	0.1258	0.6481	-0.15	-0.16	N/A	NULL
+UTP14C	ENST00000521776.2	UTP14, U3 small nucleolar ribonucleoprotein, homolog C (yeast) 	174	1	1	0	0	1	1	0	0	1	hsa-miR-758-3p	0.0155	0.1078	0.5675	-0.15	-0.41	N/A	2009, 2011
+C3orf14	ENST00000494481.1	chromosome 3 open reading frame 14 	67	2	1	1	0	1	0	1	0	0	hsa-miR-758-3p	0.0100	0.0683	0.3416	-0.15	-0.70	N/A	NULL
+C1orf21	ENST00000235307.6	chromosome 1 open reading frame 21 	935	1	0	1	0	3	0	1	2	2	hsa-miR-758-3p	0.0063	0.0457	0.2894	-0.15	-0.40	N/A	2007, 2009, 2011
+IAH1	ENST00000470914.1	isoamyl acetate-hydrolyzing esterase 1 homolog (S. cerevisiae) 	553	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0081	0.0522	0.1949	-0.14	-0.47	N/A	NULL
+ERMP1	ENST00000381506.3	endoplasmic reticulum metallopeptidase 1 	53	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0083	0.0595	0.3763	-0.14	-0.14	N/A	NULL
+CACUL1	ENST00000369151.3	CDK2-associated, cullin domain 1 	213	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0124	0.0877	0.5031	-0.14	-0.14	N/A	NULL
+JOSD1	ENST00000216039.5	Josephin domain containing 1 	24	1	0	1	0	1	1	0	0	0	hsa-miR-758-3p	0.0085	0.0593	0.3232	-0.14	-0.27	N/A	2007, 2009, 2011
+ITGB6	ENST00000283249.2	integrin, beta 6 	5	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0250	0.1631	0.6757	-0.14	-0.14	N/A	NULL
+STAT5B	ENST00000293328.3	signal transducer and activator of transcription 5B 	329	1	1	0	0	2	0	1	1	0	hsa-miR-758-3p	0.0147	0.0986	0.4360	-0.14	-0.35	N/A	2011
+LRIT3	ENST00000594814.1	leucine-rich repeat, immunoglobulin-like and transmembrane domains 3 	5	1	0	0	1	1	0	0	1	0	hsa-miR-758-3p	0.0101	0.0725	0.4347	-0.14	-0.14	N/A	NULL
+ATP2B2	ENST00000352432.4	ATPase, Ca++ transporting, plasma membrane 2 	170	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0157	0.1065	0.4967	-0.14	-0.14	N/A	2009, 2011
+WWC1	ENST00000265293.4	WW and C2 domain containing 1 	43	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0099	0.0713	0.4491	-0.13	-0.13	N/A	NULL
+ZBTB38	ENST00000514251.1	zinc finger and BTB domain containing 38 	1270	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0250	0.1673	0.7742	-0.13	-0.13	N/A	2007, 2009, 2011
+EAF1	ENST00000396842.2	ELL associated factor 1 	63	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0198	0.1396	0.7959	-0.13	-0.13	N/A	NULL
+CDK19	ENST00000368911.3	cyclin-dependent kinase 19 	51	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0197	0.1229	0.4472	-0.13	-0.23	N/A	NULL
+FASTK	ENST00000540185.1	Fas-activated serine/threonine kinase 	645	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0043	0.0306	0.1909	-0.13	-0.13	N/A	NULL
+ARMC10	ENST00000323716.3	armadillo repeat containing 10 	147	1	1	0	0	0	0	0	0	2	hsa-miR-758-3p	0.0260	0.1694	0.7311	-0.13	-0.16	N/A	NULL
+TMEM229B	ENST00000557006.1	transmembrane protein 229B 	5	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0130	0.0887	0.4182	-0.12	-0.12	N/A	2007, 2009, 2011
+PIK3CA	ENST00000263967.3	phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha 	112	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0195	0.1266	0.5300	-0.12	-0.30	N/A	NULL
+SRRM4	ENST00000267260.4	serine/arginine repetitive matrix 4 	22	1	0	1	0	1	0	0	1	0	hsa-miR-758-3p	0.0192	0.1341	0.7429	-0.12	-0.12	N/A	2009, 2011
+TCF7L1	ENST00000282111.3	transcription factor 7-like 1 (T-cell specific, HMG-box) 	577	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0023	0.0168	0.1194	-0.12	-0.12	N/A	2009, 2011
+RBFOX3	ENST00000583458.1	RNA binding protein, fox-1 homolog (C. elegans) 3 	5	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0042	0.0305	0.2026	-0.12	-0.12	N/A	2011
+TET3	ENST00000409262.3	tet methylcytosine dioxygenase 3 	1437	1	0	0	1	2	0	1	1	1	hsa-miR-758-3p	0.0145	0.1036	0.6293	-0.11	-0.12	N/A	2009, 2011
+GPR37	ENST00000303921.2	G protein-coupled receptor 37 (endothelin receptor type B-like) 	395	1	0	0	1	1	0	0	1	0	hsa-miR-758-3p	0.0024	0.0178	0.1188	-0.11	-0.12	N/A	NULL
+MBNL3	ENST00000370839.3	muscleblind-like splicing regulator 3 	593	1	1	0	0	1	0	0	1	1	hsa-miR-758-3p	0.0320	0.2032	0.8264	-0.11	-0.14	N/A	2011
+CTD-2054N24.2	ENST00000559714.1	Uncharacterized protein  	21	1	0	0	1	4	0	0	4	0	hsa-miR-758-3p	0.0077	0.0558	0.3741	-0.11	-0.14	N/A	NULL
+DSTN	ENST00000246069.7	destrin (actin depolymerizing factor) 	10116	1	0	0	1	2	0	1	1	0	hsa-miR-758-3p	0.0032	0.0234	0.1540	-0.10	-0.35	N/A	NULL
+STRN3	ENST00000355683.5	striatin, calmodulin binding protein 3 	697	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0088	0.0638	0.4018	-0.10	-0.10	N/A	2011
+RAB7L1	ENST00000367139.3	RAB7, member RAS oncogene family-like 1 	61	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0049	0.0355	0.2182	-0.10	-0.10	N/A	2011
+FGD1	ENST00000375135.3	FYVE, RhoGEF and PH domain containing 1 	138	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0016	0.0121	0.0849	-0.10	-0.10	N/A	2009, 2011
+HMCES	ENST00000383463.4	5-hydroxymethylcytosine (hmC) binding, ES cell-specific 	215	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0106	0.0663	0.2382	-0.10	-0.34	N/A	NULL
+DDX19B	ENST00000288071.6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 19B 	690	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0096	0.0632	0.2639	-0.10	-0.22	N/A	NULL
+ABHD10	ENST00000494817.1	abhydrolase domain containing 10 	929	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0054	0.0393	0.2601	-0.10	-0.11	N/A	2009, 2011
+DDX5	ENST00000225792.5	DEAD (Asp-Glu-Ala-Asp) box helicase 5 	5537	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0021	0.0156	0.1099	-0.10	-0.10	N/A	2007, 2011
+GALNT10	ENST00000297107.6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10 (GalNAc-T10) 	3445	1	1	0	0	1	0	1	0	1	hsa-miR-758-3p	0.0101	0.0735	0.4756	-0.09	-0.09	N/A	2011
+UNC5D	ENST00000287272.2	unc-5 homolog D (C. elegans) 	37	1	1	0	0	3	0	1	2	2	hsa-miR-758-3p	0.0198	0.1400	0.8022	-0.09	-0.11	N/A	2009, 2011
+MIPOL1	ENST00000327441.7	mirror-image polydactyly 1 	45	1	0	0	1	2	1	0	1	4	hsa-miR-758-3p	0.0085	0.0604	0.3535	-0.09	-0.20	N/A	2007, 2009, 2011
+DUSP1	ENST00000239223.3	dual specificity phosphatase 1 	37211	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0012	0.0088	0.0615	-0.09	-0.09	N/A	NULL
+SLC46A1	ENST00000440501.1	solute carrier family 46 (folate transporter), member 1 	580	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0109	0.0755	0.3943	-0.09	-0.10	N/A	NULL
+PHF15	ENST00000402835.1	PHD finger protein 15 	387	1	0	1	0	1	0	1	0	0	hsa-miR-758-3p	0.0132	0.0930	0.5271	-0.09	-0.10	N/A	2007, 2009, 2011
+KHSRP	ENST00000398148.3	KH-type splicing regulatory protein 	4469	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0034	0.0249	0.1690	-0.09	-0.09	N/A	2007, 2009, 2011
+MYCBP	ENST00000397572.2	MYC binding protein 	85	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0044	0.0306	0.1659	-0.09	-0.20	N/A	2011
+SPRY1	ENST00000394339.2	sprouty homolog 1, antagonist of FGF signaling (Drosophila) 	150	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0062	0.0447	0.2960	-0.08	-0.08	N/A	2009, 2011
+ADAMTS5	ENST00000284987.5	ADAM metallopeptidase with thrombospondin type 1 motif, 5 	68	1	0	0	1	2	1	1	0	4	hsa-miR-758-3p	0.0279	0.1824	0.8579	-0.08	-0.26	N/A	2009, 2011
+MYH9	ENST00000216181.5	myosin, heavy chain 9, non-muscle 	1317	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0138	0.0936	0.4342	-0.08	-0.10	N/A	2009, 2011
+ENTPD7	ENST00000370489.4	ectonucleoside triphosphate diphosphohydrolase 7 	136	1	1	0	0	1	1	0	0	0	hsa-miR-758-3p	0.0116	0.0816	0.4493	-0.08	-0.12	N/A	2011
+BACH2	ENST00000257749.4	BTB and CNC homology 1, basic leucine zipper transcription factor 2 	74	1	1	0	0	0	0	0	0	2	hsa-miR-758-3p	0.0209	0.1393	0.6222	-0.08	-0.08	N/A	2007, 2009, 2011
+OSBPL10	ENST00000396556.2	oxysterol binding protein-like 10 	10	1	0	0	1	1	0	1	0	1	hsa-miR-758-3p	0.0173	0.1158	0.5589	-0.08	-0.15	N/A	NULL
+GRIK3	ENST00000373091.3	glutamate receptor, ionotropic, kainate 3 	7	1	1	0	0	2	0	1	1	1	hsa-miR-758-3p	0.0318	0.2187	1.1311	-0.08	-0.08	N/A	2009, 2011
+MCMDC2	ENST00000422365.2	minichromosome maintenance domain containing 2 	7	1	0	1	0	1	0	0	1	0	hsa-miR-758-3p	0.0099	0.0722	0.4795	-0.08	-0.08	N/A	NULL
+KBTBD13	ENST00000432196.2	kelch repeat and BTB (POZ) domain containing 13 	5	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0035	0.0252	0.1606	-0.08	-0.08	N/A	2011
+RWDD4	ENST00000326397.5	RWD domain containing 4 	5	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0025	0.0183	0.1287	-0.08	-0.08	N/A	2007, 2009, 2011
+KPNA3	ENST00000261667.3	karyopherin alpha 3 (importin alpha 4) 	104	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0078	0.0551	0.3221	-0.08	-0.16	N/A	2009, 2011
+RBMS2	ENST00000262031.5	RNA binding motif, single stranded interacting protein 2 	451	1	0	0	1	1	0	1	0	3	hsa-miR-758-3p	0.0045	0.0317	0.1799	-0.08	-0.16	N/A	2011
+TP53I11	ENST00000395648.3	tumor protein p53 inducible protein 11 	90	1	0	0	1	1	0	0	1	0	hsa-miR-758-3p	0.0025	0.0182	0.1271	-0.08	-0.08	N/A	NULL
+PPP2R2C	ENST00000335585.5	protein phosphatase 2, regulatory subunit B, gamma 	115	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0073	0.0531	0.3650	-0.07	-0.07	N/A	2009, 2011
+PGM3	ENST00000513973.1	phosphoglucomutase 3 	707	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0095	0.0657	0.3356	-0.07	-0.09	N/A	NULL
+BZRAP1	ENST00000268893.6	benzodiazapine receptor (peripheral) associated protein 1 	26	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0018	0.0131	0.0900	-0.07	-0.10	N/A	NULL
+ZADH2	ENST00000322342.3	zinc binding alcohol dehydrogenase domain containing 2 	207	1	0	1	0	2	0	0	2	0	hsa-miR-758-3p	0.0068	0.0491	0.3075	-0.07	-0.11	N/A	2007, 2009, 2011
+CCNG1	ENST00000340828.2	cyclin G1 	1547	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0034	0.0250	0.1703	-0.07	-0.07	N/A	NULL
+DGKH	ENST00000261491.5	diacylglycerol kinase, eta 	46	1	1	0	0	3	0	1	2	3	hsa-miR-758-3p	0.0374	0.2522	1.2538	-0.07	-0.10	N/A	NULL
+RYBP	ENST00000477973.2	RING1 and YY1 binding protein 	342	1	0	0	1	1	0	0	1	1	hsa-miR-758-3p	0.0071	0.0515	0.3393	-0.07	-0.07	N/A	2007
+TRIP11	ENST00000267622.4	thyroid hormone receptor interactor 11 	13	1	0	0	1	1	0	1	0	0	hsa-miR-758-3p	0.0074	0.0533	0.3439	-0.07	-0.16	N/A	2007, 2011
+ZFHX3	ENST00000268489.5	zinc finger homeobox 3 	57	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0148	0.0985	0.4342	-0.06	-0.09	N/A	2007, 2009, 2011
+RELN	ENST00000428762.1	reelin 	252	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0137	0.0961	0.5201	-0.06	-0.06	N/A	2011
+SPATA17	ENST00000366933.4	spermatogenesis associated 17 	12	1	1	0	0	1	0	1	0	0	hsa-miR-758-3p	0.0045	0.0324	0.1980	-0.06	-0.16	N/A	NULL
+BHLHE41	ENST00000242728.4	basic helix-loop-helix family, member e41 	50	1	0	0	1	2	0	0	2	0	hsa-miR-758-3p	0.0042	0.0302	0.1963	-0.06	-0.12	N/A	NULL
+KCNV1	ENST00000524391.1	potassium channel, subfamily V, member 1 	5	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0118	0.0816	0.4114	-0.06	-0.06	N/A	NULL
+CDK13	ENST00000181839.4	cyclin-dependent kinase 13 	32	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0050	0.0363	0.2526	-0.06	-0.06	N/A	2011
+HMGA1	ENST00000347617.6	high mobility group AT-hook 1 	2024	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0038	0.0277	0.1739	-0.06	-0.06	N/A	2007, 2011
+MAP7	ENST00000354570.3	microtubule-associated protein 7 	444	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0055	0.0394	0.2476	-0.06	-0.07	N/A	NULL
+GPR61	ENST00000527748.1	G protein-coupled receptor 61 	5	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0047	0.0340	0.2230	-0.06	-0.06	N/A	2011
+TFAM	ENST00000487519.1	transcription factor A, mitochondrial 	1323	2	1	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0034	0.0240	0.1434	-0.06	-0.27	N/A	NULL
+ZC3H14	ENST00000251038.5	zinc finger CCCH-type containing 14 	395	1	0	0	1	1	0	1	0	0	hsa-miR-758-3p	0.0033	0.0231	0.1253	-0.06	-0.26	N/A	2007, 2009, 2011
+MTDH	ENST00000336273.3	metadherin 	5192	1	0	0	1	1	1	0	0	1	hsa-miR-758-3p	0.0054	0.0387	0.2378	-0.06	-0.18	N/A	NULL
+ANTXR2	ENST00000403729.2	anthrax toxin receptor 2 	51	1	0	1	0	2	0	0	2	3	hsa-miR-758-3p	0.0066	0.0483	0.3290	-0.06	-0.12	N/A	2007, 2009, 2011
+PLCL1	ENST00000428675.1	phospholipase C-like 1 	31	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0046	0.0336	0.2177	-0.05	-0.05	N/A	2011
+ANGPT2	ENST00000325203.5	angiopoietin 2 	5	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0069	0.0503	0.3311	-0.05	-0.05	N/A	2009, 2011
+SH2D7	ENST00000328828.5	SH2 domain containing 7 	5	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0038	0.0279	0.1816	-0.05	-0.05	N/A	NULL
+SYNM	ENST00000560674.1	synemin, intermediate filament protein 	36	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0033	0.0239	0.1611	-0.05	-0.07	N/A	2011
+CSNK1G1	ENST00000303052.7	casein kinase 1, gamma 1 	149	1	0	0	1	2	1	0	1	2	hsa-miR-758-3p	0.0141	0.1018	0.6443	-0.05	-0.05	N/A	2007, 2009, 2011
+ZBTB20	ENST00000462705.1	zinc finger and BTB domain containing 20 	5	1	0	0	1	6	0	0	6	7	hsa-miR-758-3p	0.0020	0.0146	0.1019	-0.05	-0.12	N/A	NULL
+CAMK1D	ENST00000378847.3	calcium/calmodulin-dependent protein kinase ID 	258	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0031	0.0230	0.1587	-0.04	-0.04	N/A	2009, 2011
+CBX5	ENST00000209875.4	chromobox homolog 5 	360	1	0	1	0	1	0	1	0	3	hsa-miR-758-3p	0.0065	0.0461	0.2787	-0.04	-0.23	N/A	2011
+CUX2	ENST00000261726.6	cut-like homeobox 2 	15	1	0	1	0	1	0	0	1	0	hsa-miR-758-3p	0.0047	0.0335	0.2057	-0.04	-0.09	N/A	2007
+STRN	ENST00000263918.4	striatin, calmodulin binding protein 	476	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0143	0.0927	0.3700	-0.04	-0.07	N/A	2011
+DACT3	ENST00000300875.4	dishevelled-binding antagonist of beta-catenin 3 	59	1	0	0	1	1	0	0	1	0	hsa-miR-758-3p	0.0024	0.0173	0.1150	-0.04	-0.11	N/A	2007, 2011
+PPAP2B	ENST00000371250.3	phosphatidic acid phosphatase type 2B 	81	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0014	0.0103	0.0717	-0.04	-0.04	N/A	2007, 2011
+AP3S2	ENST00000336418.4	adaptor-related protein complex 3, sigma 2 subunit 	985	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0034	0.0246	0.1537	-0.04	-0.07	N/A	2011
+ASXL2	ENST00000435504.4	additional sex combs like 2 (Drosophila) 	139	1	0	0	1	2	0	1	1	0	hsa-miR-758-3p	0.0118	0.0852	0.5496	-0.04	-0.06	N/A	NULL
+ENPP6	ENST00000296741.2	ectonucleotide pyrophosphatase/phosphodiesterase 6 	5	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0021	0.0151	0.1059	-0.04	-0.04	N/A	2007, 2009, 2011
+NT5C1A	ENST00000235628.1	5'-nucleotidase, cytosolic IA 	4	1	1	0	0	1	0	0	1	1	hsa-miR-758-3p	0.0128	0.0924	0.5871	-0.04	-0.04	N/A	NULL
+FBXL7	ENST00000504595.1	F-box and leucine-rich repeat protein 7 	16	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0083	0.0597	0.3819	-0.04	-0.04	N/A	NULL
+GJA9	ENST00000454994.2	gap junction protein, alpha 9, 59kDa 	85	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0038	0.0269	0.1464	-0.04	-0.10	N/A	NULL
+ADD1	ENST00000398125.1	adducin 1 (alpha) 	460	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0036	0.0262	0.1712	-0.04	-0.04	N/A	2007, 2009, 2011
+OTX1	ENST00000366671.3	orthodenticle homeobox 1 	11	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0026	0.0192	0.1262	-0.04	-0.04	N/A	2011
+SV2C	ENST00000502798.2	synaptic vesicle glycoprotein 2C 	30	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0134	0.0951	0.5548	-0.04	-0.04	N/A	NULL
+FBXL20	ENST00000394294.3	F-box and leucine-rich repeat protein 20 	455	1	0	0	1	3	0	0	3	1	hsa-miR-758-3p	0.0066	0.0480	0.3290	-0.04	-0.07	N/A	2011
+PGPEP1	ENST00000597431.2	pyroglutamyl-peptidase I 	82	1	0	1	0	1	1	0	0	0	hsa-miR-758-3p	0.0033	0.0225	0.1136	-0.04	-0.32	N/A	2007, 2009, 2011
+SPTLC2	ENST00000216484.2	serine palmitoyltransferase, long chain base subunit 2 	95	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0097	0.0625	0.2529	-0.04	-0.12	N/A	2011
+CASP3	ENST00000393585.2	caspase 3, apoptosis-related cysteine peptidase 	43	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0014	0.0100	0.0698	-0.04	-0.04	N/A	NULL
+IL6ST	ENST00000381287.4	interleukin 6 signal transducer (gp130, oncostatin M receptor) 	213	1	0	0	1	2	0	0	2	2	hsa-miR-758-3p	0.0099	0.0724	0.4926	-0.04	-0.04	N/A	NULL
+A1CF	ENST00000374001.2	APOBEC1 complementation factor 	80	1	1	0	0	1	0	0	1	2	hsa-miR-758-3p	0.0111	0.0740	0.3578	-0.04	-0.13	N/A	NULL
+C1GALT1	ENST00000223122.3	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1 	44	1	1	0	0	1	0	0	1	2	hsa-miR-758-3p	0.0045	0.0312	0.1700	-0.03	-0.15	N/A	2011
+CSNK1A1	ENST00000261798.5	casein kinase 1, alpha 1 	769	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0055	0.0399	0.2746	-0.03	-0.05	N/A	NULL
+CDHR2	ENST00000510636.1	cadherin-related family member 2 	84	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0009	0.0062	0.0431	-0.03	-0.07	N/A	NULL
+CENPP	ENST00000375587.3	centromere protein P 	85	1	0	0	1	2	0	0	2	2	hsa-miR-758-3p	0.0017	0.0127	0.0845	-0.03	-0.17	N/A	2007, 2009, 2011
+EEA1	ENST00000322349.8	early endosome antigen 1 	78	1	0	0	1	1	0	0	1	1	hsa-miR-758-3p	0.0093	0.0672	0.4423	-0.03	-0.03	N/A	2007, 2009, 2011
+CAMK2N1	ENST00000375078.3	calcium/calmodulin-dependent protein kinase II inhibitor 1 	6631	1	0	1	0	1	0	0	1	1	hsa-miR-758-3p	0.0016	0.0118	0.0811	-0.03	-0.08	N/A	NULL
+CFL2	ENST00000341223.3	cofilin 2 (muscle) 	902	1	0	0	1	1	0	0	1	0	hsa-miR-758-3p	0.0015	0.0109	0.0760	-0.03	-0.04	N/A	NULL
+YIPF4	ENST00000238831.4	Yip1 domain family, member 4 	3482	1	0	0	1	1	0	0	1	1	hsa-miR-758-3p	0.0037	0.0270	0.1829	-0.03	-0.05	N/A	NULL
+ARHGAP36	ENST00000370922.1	Rho GTPase activating protein 36 	5	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0029	0.0213	0.1498	-0.03	-0.03	N/A	2007, 2009, 2011
+LURAP1	ENST00000371980.3	leucine rich adaptor protein 1 	20	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0011	0.0080	0.0534	-0.02	-0.05	N/A	NULL
+C15orf38-AP3S2	ENST00000398333.3	C15orf38-AP3S2 readthrough 	985	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0035	0.0253	0.1590	-0.02	-0.04	N/A	2011
+FGFBP3	ENST00000311575.5	fibroblast growth factor binding protein 3 	148	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0020	0.0138	0.0675	-0.02	-0.31	N/A	NULL
+TBX4	ENST00000393853.4	T-box 4 	21	1	0	0	1	1	0	0	1	0	hsa-miR-758-3p	0.0036	0.0260	0.1804	-0.02	-0.02	N/A	NULL
+KIF24	ENST00000402558.2	kinesin family member 24 	84	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0046	0.0338	0.2280	-0.02	-0.02	N/A	NULL
+XYLT1	ENST00000261381.6	xylosyltransferase I 	159	1	0	0	1	1	0	0	1	2	hsa-miR-758-3p	0.0078	0.0573	0.3937	-0.02	-0.02	N/A	2007, 2009, 2011
+VIL1	ENST00000248444.5	villin 1 	390	1	1	0	0	3	0	0	3	1	hsa-miR-758-3p	0.0038	0.0274	0.1715	-0.02	-0.29	N/A	NULL
+COL4A4	ENST00000396625.3	collagen, type IV, alpha 4 	133	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0069	0.0508	0.3539	-0.02	-0.02	N/A	2011
+MAD2L1	ENST00000296509.6	MAD2 mitotic arrest deficient-like 1 (yeast) 	3013	1	1	0	0	1	0	0	1	2	hsa-miR-758-3p	0.0023	0.0161	0.0869	-0.02	-0.16	N/A	NULL
+CENPO	ENST00000380834.2	centromere protein O 	298	2	0	0	2	1	0	0	1	1	hsa-miR-758-3p	0.0024	0.0177	0.1200	-0.02	-0.05	N/A	NULL
+C11orf30	ENST00000529032.1	chromosome 11 open reading frame 30 	230	1	0	1	0	1	0	0	1	0	hsa-miR-758-3p	0.0048	0.0348	0.2371	-0.02	-0.03	N/A	NULL
+NCOA3	ENST00000341724.6	nuclear receptor coactivator 3 	282	1	0	1	0	0	0	0	0	1	hsa-miR-758-3p	0.0043	0.0313	0.2059	-0.02	-0.02	N/A	2011
+GSTO2	ENST00000369707.2	glutathione S-transferase omega 2 	97	1	0	0	1	1	0	0	1	1	hsa-miR-758-3p	0.0030	0.0219	0.1516	-0.01	-0.03	N/A	NULL
+TCEANC	ENST00000380600.1	transcription elongation factor A (SII) N-terminal and central domain containing 	21	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0009	0.0065	0.0465	-0.01	-0.02	N/A	NULL
+WDR41	ENST00000296679.4	WD repeat domain 41 	313	1	0	0	1	2	0	0	2	0	hsa-miR-758-3p	0.0017	0.0121	0.0840	-0.01	-0.12	N/A	NULL
+NOC3L	ENST00000371361.3	nucleolar complex associated 3 homolog (S. cerevisiae) 	70	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0015	0.0095	0.0408	-0.01	-0.30	N/A	NULL
+SEC16B	ENST00000308284.6	SEC16 homolog B (S. cerevisiae) 	251	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0021	0.0150	0.1055	-0.01	-0.01	N/A	NULL
+SOCS7	ENST00000577233.1	suppressor of cytokine signaling 7 	15	1	1	0	0	2	1	1	0	0	hsa-miR-758-3p	0.0045	0.0285	0.1133	-0.01	-0.12	N/A	2011
+SRSF10	ENST00000343255.5	serine/arginine-rich splicing factor 10 	1920	1	0	0	1	1	0	0	1	1	hsa-miR-758-3p	0.0053	0.0392	0.2744	-0.01	-0.02	N/A	NULL
+VEZF1	ENST00000584396.1	vascular endothelial zinc finger 1 	209	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0094	0.0650	0.3320	-0.01	-0.33	N/A	2007, 2009, 2011
+ZFP91	ENST00000316059.6	ZFP91 zinc finger protein 	688	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0032	0.0232	0.1641	-0.01	-0.01	N/A	2007, 2011
+INADL	ENST00000371158.2	InaD-like (Drosophila) 	96	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0038	0.0276	0.1913	-0.01	-0.01	N/A	2009, 2011
+C2orf91	ENST00000378711.2	chromosome 2 open reading frame 91 	5	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0031	0.0229	0.1573	-0.01	-0.01	N/A	2011
+GTDC1	ENST00000392869.2	glycosyltransferase-like domain containing 1 	241	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0030	0.0221	0.1497	-0.01	-0.01	N/A	2009, 2011
+NPNT	ENST00000379987.2	nephronectin 	518	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0014	0.0105	0.0733	-0.01	-0.01	N/A	2011
+RASSF8	ENST00000541490.1	Ras association (RalGDS/AF-6) domain family (N-terminal) member 8 	1290	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0068	0.0495	0.3287	-0.01	-0.01	N/A	2011
+ERC1	ENST00000355446.5	ELKS/RAB6-interacting/CAST family member 1 	159	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0070	0.0511	0.3487	-0.01	-0.01	N/A	2011
+ETV6	ENST00000396373.4	ets variant 6 	44	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0038	0.0276	0.1876	-0.01	-0.01	N/A	2011
+ZNF609	ENST00000326648.3	zinc finger protein 609 	103	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0040	0.0294	0.2060	-0.01	-0.01	N/A	2007, 2009, 2011
+NOTCH2	ENST00000256646.2	notch 2 	734	1	0	0	1	2	0	0	2	1	hsa-miR-758-3p	0.0035	0.0260	0.1814	-0.01	-0.03	N/A	2007, 2009, 2011
+FBRSL1	ENST00000434748.2	fibrosin-like 1 	778	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0011	0.0074	0.0364	-0.01	-0.10	N/A	2011
+FTSJ3	ENST00000427159.2	FtsJ homolog 3 (E. coli) 	989	2	1	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0013	0.0093	0.0595	-0.01	-0.50	N/A	NULL
+HMGB3	ENST00000325307.7	high mobility group box 3 	295	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0004	0.0029	0.0145	0	-0.32	N/A	2009, 2011
+REPS2	ENST00000357277.3	RALBP1 associated Eps domain containing 2 	36	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0017	0.0121	0.0721	0	-0.03	N/A	2011
+NSUN3	ENST00000314622.4	NOP2/Sun domain family, member 3 	220	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0005	0.0034	0.0230	0	-0.04	N/A	NULL
+TFCP2L1	ENST00000263707.5	transcription factor CP2-like 1 	36	1	0	1	0	1	0	0	1	1	hsa-miR-758-3p	0.0024	0.0176	0.1235	0	-0.03	N/A	2011
+PLXDC2	ENST00000377252.4	plexin domain containing 2 	506	1	0	0	1	0	0	0	0	4	hsa-miR-758-3p	0.0082	0.0599	0.4122	0	-0.01	N/A	NULL
+PAX6	ENST00000419022.1	paired box 6 	191	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0007	0.0053	0.0376	0	-0.03	N/A	2011
+IDH2	ENST00000330062.3	isocitrate dehydrogenase 2 (NADP+), mitochondrial 	296	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0014	0.0100	0.0690	0	-0.05	N/A	NULL
+WAC	ENST00000375664.4	WW domain containing adaptor with coiled-coil 	322	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0017	0.0121	0.0847	0	-0.01	N/A	2011
+HSPA4L	ENST00000296464.4	heat shock 70kDa protein 4-like 	348	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0010	0.0075	0.0518	0	-0.01	N/A	NULL
+S1PR1	ENST00000305352.6	sphingosine-1-phosphate receptor 1 	251	1	0	1	0	2	0	1	1	1	hsa-miR-758-3p	0.0005	0.0036	0.0243	0	-0.28	N/A	NULL
+USP31	ENST00000219689.7	ubiquitin specific peptidase 31 	214	1	0	1	0	1	0	0	1	2	hsa-miR-758-3p	0.0019	0.0137	0.0944	0	-0.03	N/A	NULL
+HIC2	ENST00000407464.2	hypermethylated in cancer 2 	28	1	0	0	1	0	0	0	0	1	hsa-miR-758-3p	0.0011	0.0080	0.0551	0	-0.01	N/A	2007, 2009, 2011
+NFE2L3	ENST00000056233.3	nuclear factor, erythroid 2-like 3 	36	1	0	0	1	1	0	1	0	1	hsa-miR-758-3p	0.0059	0.0425	0.2757	0	-0.03	N/A	NULL
+HNRNPA0	ENST00000314940.4	heterogeneous nuclear ribonucleoprotein A0 	22668	1	0	0	1	2	0	1	1	1	hsa-miR-758-3p	0.0001	0.0009	0.0055	0	-0.17	N/A	2007
+CADM1	ENST00000452722.3	cell adhesion molecule 1 	676	1	0	1	0	2	0	0	2	0	hsa-miR-758-3p	0.0001	0.0009	0.0054	0	-0.14	N/A	NULL
+USP6NL	ENST00000609104.1	USP6 N-terminal like 	183	1	1	0	0	1	0	1	0	2	hsa-miR-758-3p	0.0018	0.0130	0.0889	0	-0.05	N/A	NULL
+EIF5B	ENST00000289371.6	eukaryotic translation initiation factor 5B 	188	1	0	0	1	0	0	0	0	2	hsa-miR-758-3p	0.0005	0.0036	0.0253	0	-0.01	N/A	NULL
+BAMBI	ENST00000375533.3	BMP and activin membrane-bound inhibitor 	515	1	0	0	1	1	0	1	0	1	hsa-miR-758-3p	0.0003	0.0020	0.0130	0	-0.03	N/A	NULL
+SYNGR2	ENST00000589711.1	synaptogyrin 2 	466	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0000	0.0001	0.0005	0	-0.07	N/A	NULL
+GFAP	ENST00000586793.1	glial fibrillary acidic protein 	5	1	0	1	0	0	0	0	0	2	hsa-miR-758-3p	0.0000	0.0001	0.0004	0	-0.21	N/A	NULL
+DCUN1D5	ENST00000260247.5	DCN1, defective in cullin neddylation 1, domain containing 5 	1486	1	0	1	0	0	0	0	0	2	hsa-miR-758-3p	0.0000	0.0003	0.0017	0	-0.11	N/A	2011
+GDE1	ENST00000353258.3	glycerophosphodiester phosphodiesterase 1 	2741	1	1	0	0	0	0	0	0	0	hsa-miR-758-3p	0.0026	0.0188	0.1285	0	-0.35	N/A	NULL
+SURF2	ENST00000371964.4	surfeit 2 	290	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0000	0.0001	0.0005	0	-0.05	N/A	NULL
+CNTD1	ENST00000588408.1	cyclin N-terminal domain containing 1 	7	1	0	1	0	0	0	0	0	0	hsa-miR-758-3p	0.0012	0.0085	0.0612	0	-0.19	N/A	2011
+PSTPIP1	ENST00000558012.1	proline-serine-threonine phosphatase interacting protein 1 	19	1	0	1	0	1	0	1	0	1	hsa-miR-758-3p	0.0000	0.0001	0.0005	0	-0.24	N/A	NULL
+SGIP1	ENST00000371036.3	SH3-domain GRB2-like (endophilin) interacting protein 1 	180	1	0	0	1	1	0	0	1	1	hsa-miR-758-3p	0.0004	0.0033	0.0242	0	-0.02	N/A	NULL
+NDNF	ENST00000379692.4	neuron-derived neurotrophic factor 	51	1	1	0	0	1	1	0	0	2	hsa-miR-758-3p	0.0028	0.0205	0.1371	0	-0.14	N/A	NULL
+ANG	ENST00000336811.6	angiogenin, ribonuclease, RNase A family, 5 	1279	1	1	0	0	0	0	0	0	1	hsa-miR-758-3p	0.0000	0.0000	0.0000	0	-0.22	N/A	NULL
+TMEM59	ENST00000371348.1	transmembrane protein 59 	5104	1	1	0	0	1	0	0	1	0	hsa-miR-758-3p	0.0007	0.0050	0.0364	0	-0.13	N/A	NULL
+SNX11	ENST00000393405.2	sorting nexin 11 	20	1	0	0	1	0	0	0	0	0	hsa-miR-758-3p	0.0000	0.0000	0.0000	0	-0.01	N/A	NULL

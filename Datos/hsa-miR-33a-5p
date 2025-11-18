@@ -1,0 +1,546 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT	Previous TargetScan publication(s)
+ANO4	ENST00000392979.3	anoctamin 4 	128	1*	0	0	0	2	0	1	1	0	hsa-miR-33a-5p	0.0061	0.0446	0.2960	-1.11	-1.11	0.29	2011
+HMGA2	ENST00000403681.2	high mobility group AT-hook 2 	8021	2	2	0	0	1	0	0	1	1	hsa-miR-33b-5p	0.0390	0.2686	1.3592	-0.64	-0.64	0.30	2005, 2007, 2009, 2011
+UBE2V2	ENST00000523111.2	ubiquitin-conjugating enzyme E2 variant 2 	1770	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0279	0.1781	0.6785	-0.55	-0.55	0.67	2009, 2011
+CROT	ENST00000331536.3	carnitine O-octanoyltransferase 	46	2	2	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0363	0.2408	1.0252	-0.54	-0.54	0.58	2009, 2011
+CCNYL1	ENST00000295414.3	cyclin Y-like 1 	111	1	0	1	0	3	1	0	2	0	hsa-miR-33a-5p	0.0211	0.1483	0.8203	-0.53	-0.56	0.21	2011
+EN2	ENST00000297375.4	engrailed homeobox 2 	86	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0259	0.1641	0.5919	-0.47	-0.47	0.68	2005, 2007, 2009, 2011
+NPC1	ENST00000269228.5	Niemann-Pick disease, type C1 	257	2	0	1	1	0	0	0	0	1	hsa-miR-33a-5p	0.0294	0.1988	0.9483	-0.45	-0.45	0.45	2005, 2007, 2009, 2011
+RCAN1	ENST00000482533.1	regulator of calcineurin 1 	715	1	0	1	0	2	2	0	0	3	hsa-miR-33a-5p	0.0175	0.1223	0.6598	-0.42	-0.54	0.21	NULL
+SIRT6	ENST00000601488.1	sirtuin 6 	10	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0094	0.0657	0.3420	-0.42	-0.42	< 0.1	2009, 2011
+YWHAH	ENST00000397492.1	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide 	7321	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0171	0.1178	0.6047	-0.41	-0.41	< 0.1	2005, 2007, 2009, 2011
+CSMD1	ENST00000400186.3	CUB and Sushi multiple domains 1 	5	1	1	0	0	1	0	1	0	1	hsa-miR-33a-5p	0.0182	0.1271	0.6850	-0.40	-0.52	< 0.1	2009, 2011
+SLC25A25	ENST00000373069.5	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 25 	3454	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0367	0.2192	0.6711	-0.40	-0.41	0.63	2005, 2007, 2009, 2011
+GLCCI1	ENST00000223145.5	glucocorticoid induced transcript 1 	654	1	1	0	0	1	0	0	1	1	hsa-miR-33a-5p	0.0273	0.1812	0.8038	-0.39	-0.40	0.29	2007, 2009, 2011
+AL354993.1	ENST00000439873.2	Cell growth-inhibiting protein 7; HCG1784586; Uncharacterized protein  	9	1	0	1	0	2	0	0	2	0	hsa-miR-33a-5p	0.0136	0.0960	0.5298	-0.37	-0.53	0.21	NULL
+ANKRD44	ENST00000282272.8	ankyrin repeat domain 44 	187	1	1	0	0	1	0	0	1	1	hsa-miR-33a-5p	0.0217	0.1528	0.8623	-0.37	-0.39	< 0.1	2011
+PIM1	ENST00000373509.5	pim-1 oncogene 	2041	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0238	0.1531	0.5770	-0.36	-0.36	0.29	2007, 2009, 2011
+NRXN1	ENST00000342183.5	neurexin 1 	5	2	0	0	2	1	0	0	1	1	hsa-miR-33a-5p	0.0131	0.0952	0.6392	-0.36	-0.36	0.52	2007
+SNAI2	ENST00000020945.1	snail family zinc finger 2 	1233	1	0	0	1	1	0	0	1	2	hsa-miR-33a-5p	0.0130	0.0935	0.5893	-0.36	-0.36	0.31	NULL
+RORA	ENST00000335670.6	RAR-related orphan receptor A 	102	1	0	0	1	4	1	0	3	2	hsa-miR-33a-5p	0.0297	0.2137	1.3427	-0.35	-0.43	0.48	2011
+RP11-113D6.10	ENST00000527059.1	Putative mitochondrial carrier protein LOC494141  	5	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0165	0.1142	0.5882	-0.35	-0.35	0.23	NULL
+BEND6	ENST00000370750.2	BEN domain containing 6 	11	1	0	0	1	1	0	1	0	1	hsa-miR-33a-5p	0.0210	0.1484	0.8367	-0.35	-0.36	< 0.1	NULL
+ZNF281	ENST00000294740.3	zinc finger protein 281 	595	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0327	0.2034	0.7155	-0.34	-0.34	0.69	2005, 2007, 2009, 2011
+LDHA	ENST00000227157.4	lactate dehydrogenase A 	375	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0123	0.0838	0.3891	-0.34	-0.49	< 0.1	2011
+ZNF804B	ENST00000333190.4	zinc finger protein 804B 	0	1	1	0	0	3	0	0	3	0	hsa-miR-33a-5p	0.0321	0.2250	1.2588	-0.33	-0.33	0.46	NULL
+ANKAR	ENST00000438402.2	ankyrin and armadillo repeat containing 	5	1	1	0	0	1	0	0	1	1	hsa-miR-33b-5p	0.0245	0.1664	0.8074	-0.32	-0.32	< 0.1	NULL
+HADHB	ENST00000317799.5	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit 	2068	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0121	0.0832	0.4015	-0.31	-0.31	0.21	2005, 2007, 2009, 2011
+KIAA0087	ENST00000242109.3	KIAA0087 	5	2	0	1	1	1	0	1	0	1	hsa-miR-33a-5p	0.0304	0.2106	1.0662	-0.30	-0.30	0.45	NULL
+DEPTOR	ENST00000286234.5	DEP domain containing MTOR-interacting protein 	18	1	1	0	0	1	1	0	0	0	hsa-miR-33a-5p	0.0131	0.0910	0.4783	-0.29	-0.38	< 0.1	2009, 2011
+SLC17A6	ENST00000263160.3	solute carrier family 17 (vesicular glutamate transporter), member 6 	5	1	0	1	0	2	0	0	2	1	hsa-miR-33a-5p	0.0221	0.1577	0.9277	-0.28	-0.28	0.45	2005, 2007
+ABCA1	ENST00000374736.3	ATP-binding cassette, sub-family A (ABC1), member 1 	184	3	3	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0917	0.5544	1.9987	-0.27	-0.27	0.90	2007, 2009, 2011
+SREK1	ENST00000334121.6	splicing regulatory glutamine/lysine-rich protein 1 	316	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0205	0.1449	0.8214	-0.27	-0.31	0.21	2005, 2007, 2009, 2011
+GAS1	ENST00000298743.7	growth arrest-specific 1 	2904	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0154	0.1060	0.5337	-0.27	-0.27	0.53	2009, 2011
+SPAST	ENST00000315285.3	spastin 	239	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0158	0.1063	0.4814	-0.27	-0.27	< 0.1	2011
+TM9SF3	ENST00000371142.4	transmembrane 9 superfamily member 3 	1030	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0241	0.1595	0.6976	-0.26	-0.27	0.21	2009, 2011
+EIF5A2	ENST00000474096.1	eukaryotic translation initiation factor 5A2 	443	1	0	1	0	3	1	1	1	2	hsa-miR-33a-5p	0.0119	0.0849	0.5127	-0.26	-0.63	< 0.1	NULL
+FAM222B	ENST00000582266.1	family with sequence similarity 222, member B 	100	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0162	0.1136	0.6154	-0.26	-0.27	< 0.1	NULL
+CDK6	ENST00000265734.4	cyclin-dependent kinase 6 	1116	1	1	0	0	2	1	0	1	3	hsa-miR-33a-5p	0.0565	0.3745	1.6827	-0.25	-0.26	0.78	2005, 2007, 2009, 2011
+GRIK2	ENST00000413795.1	glutamate receptor, ionotropic, kainate 2 	28	2	0	1	1	2	0	0	2	1	hsa-miR-33a-5p	0.0197	0.1415	0.8751	-0.25	-0.25	0.45	2009, 2011
+CPT1A	ENST00000265641.5	carnitine palmitoyltransferase 1A (liver) 	869	1	1	0	0	1	0	0	1	2	hsa-miR-33a-5p	0.0403	0.2511	0.9580	-0.25	-0.26	0.69	2011
+NSF	ENST00000225282.8	N-ethylmaleimide-sensitive factor 	86	2	0	0	2	1	0	0	1	0	hsa-miR-33a-5p	0.0099	0.0721	0.4733	-0.24	-0.29	0.52	2005, 2007, 2009, 2011
+RGMA	ENST00000557420.1	RGM domain family, member A 	145	1	0	0	1	1	0	1	0	0	hsa-miR-33a-5p	0.0139	0.0993	0.5836	-0.24	-0.25	0.31	2005, 2007, 2009, 2011
+ITGBL1	ENST00000545560.2	integrin, beta-like 1 (with EGF-like repeat domains) 	106	1	0	1	0	3	1	0	2	0	hsa-miR-33a-5p	0.0236	0.1668	0.9536	-0.24	-0.27	0.21	NULL
+MMP16	ENST00000286614.6	matrix metallopeptidase 16 (membrane-inserted) 	12	1	0	1	0	2	0	1	1	3	hsa-miR-33b-5p	0.0270	0.1915	1.1233	-0.24	-0.26	0.21	2007
+APPBP2	ENST00000083182.3	amyloid beta precursor protein (cytoplasmic tail) binding protein 2 	907	1	1	0	0	2	0	1	1	1	hsa-miR-33a-5p	0.0309	0.2144	1.1268	-0.23	-0.23	0.31	2011
+BACH1	ENST00000286800.3	BTB and CNC homology 1, basic leucine zipper transcription factor 1 	273	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0249	0.1726	0.9319	-0.23	-0.30	< 0.1	2011
+TMEM59	ENST00000371348.1	transmembrane protein 59 	5104	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0055	0.0397	0.2508	-0.23	-0.23	0.31	NULL
+KIAA2026	ENST00000399933.3	KIAA2026 	712	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0142	0.1008	0.5899	-0.23	-0.23	0.21	NULL
+CPSF2	ENST00000298875.4	cleavage and polyadenylation specific factor 2, 100kDa 	945	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0209	0.1406	0.6515	-0.23	-0.25	0.36	2011
+ZC3H12C	ENST00000278590.3	zinc finger CCCH-type containing 12C 	150	1	1	0	0	1	0	0	1	1	hsa-miR-33a-5p	0.0254	0.1691	0.7766	-0.23	-0.27	0.64	2009, 2011
+PLN	ENST00000357525.5	phospholamban 	5	1	0	0	1	2	0	1	1	1	hsa-miR-33b-5p	0.0053	0.0387	0.2536	-0.23	-0.32	0.31	NULL
+MAPK8	ENST00000374182.3	mitogen-activated protein kinase 8 	227	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0113	0.0768	0.3651	-0.23	-0.31	< 0.1	NULL
+ABHD2	ENST00000352732.5	abhydrolase domain containing 2 	210	1	1	0	0	2	0	0	2	0	hsa-miR-33a-5p	0.0370	0.2349	0.9410	-0.22	-0.25	0.69	2007, 2009, 2011
+TMEM86A	ENST00000280734.2	transmembrane protein 86A 	5	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0342	0.2124	0.7521	-0.22	-0.22	0.63	2007, 2009, 2011
+PIM3	ENST00000360612.4	pim-3 oncogene 	9484	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0314	0.1931	0.6388	-0.22	-0.22	0.60	2007, 2009, 2011
+RNF128	ENST00000324342.3	ring finger protein 128, E3 ubiquitin protein ligase 	17	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0133	0.0948	0.5626	-0.22	-0.22	< 0.1	NULL
+ANO8	ENST00000159087.4	anoctamin 8 	9	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0067	0.0484	0.3206	-0.21	-0.21	0.31	2007, 2009, 2011
+MAP3K7	ENST00000369325.3	mitogen-activated protein kinase kinase kinase 7 	1172	1	1	0	0	1	0	0	1	1	hsa-miR-33a-5p	0.0152	0.1064	0.5789	-0.21	-0.22	< 0.1	NULL
+RAP2A	ENST00000245304.4	RAP2A, member of RAS oncogene family 	721	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0074	0.0515	0.2744	-0.21	-0.25	0.11	2005, 2007, 2009, 2011
+ESCO1	ENST00000269214.5	establishment of sister chromatid cohesion N-acetyltransferase 1 	94	2	0	1	1	0	0	0	0	0	hsa-miR-33a-5p	0.0179	0.1267	0.7149	-0.21	-0.21	0.45	2005, 2007
+EEF1A1	ENST00000316292.9	eukaryotic translation elongation factor 1 alpha 1 	129	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0154	0.1073	0.5690	-0.21	-0.21	0.21	2005, 2007, 2009, 2011
+EBAG9	ENST00000337573.5	estrogen receptor binding site associated, antigen, 9 	238	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0065	0.0468	0.2869	-0.21	-0.23	0.31	2005, 2007
+DCUN1D5	ENST00000260247.5	DCN1, defective in cullin neddylation 1, domain containing 5 	1486	1	0	0	1	1	0	0	1	2	hsa-miR-33a-5p	0.0026	0.0193	0.1269	-0.21	-0.22	< 0.1	2007, 2011
+UNC79	ENST00000553484.1	unc-79 homolog (C. elegans) 	5	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0165	0.1190	0.7612	-0.21	-0.21	0.15	2005, 2007, 2009, 2011
+SELT	ENST00000471696.1	Selenoprotein T  	538	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0157	0.1093	0.5807	-0.20	-0.20	0.41	2009, 2011
+GPR88	ENST00000315033.4	G protein-coupled receptor 88 	5	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0160	0.1104	0.5570	-0.20	-0.20	0.21	2005, 2007, 2009, 2011
+SALL1	ENST00000566102.1	sal-like 1 (Drosophila) 	95	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0033	0.0239	0.1635	-0.20	-0.21	0.31	2011
+CRTAM	ENST00000227348.4	cytotoxic and regulatory T cell molecule 	5	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0137	0.0961	0.5198	-0.20	-0.20	< 0.1	2009, 2011
+MCFD2	ENST00000444761.2	multiple coagulation factor deficiency 2 	1648	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0073	0.0525	0.3402	-0.20	-0.20	0.31	NULL
+TTC28	ENST00000397906.2	tetratricopeptide repeat domain 28 	227	2	1	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0347	0.2214	0.8861	-0.20	-0.21	0.65	2011
+DDX5	ENST00000225792.5	DEAD (Asp-Glu-Ala-Asp) box helicase 5 	5537	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0037	0.0266	0.1769	-0.20	-0.20	0.21	2011
+EGFLAM	ENST00000322350.5	EGF-like, fibronectin type III and laminin G domains 	123	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0167	0.1127	0.5158	-0.20	-0.20	< 0.1	NULL
+SMARCA5	ENST00000283131.3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 	478	2	0	0	2	2	0	0	2	0	hsa-miR-33a-5p	0.0105	0.0764	0.5020	-0.20	-0.23	0.52	2005, 2007, 2011
+NAA15	ENST00000296543.5	N(alpha)-acetyltransferase 15, NatA auxiliary subunit 	546	2	1	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0302	0.2083	1.0827	-0.20	-0.20	0.31	2005, 2007, 2009, 2011
+RNF115	ENST00000369291.5	ring finger protein 115 	757	1	0	0	1	2	0	1	1	1	hsa-miR-33a-5p	0.0115	0.0818	0.4656	-0.20	-0.22	0.31	NULL
+NIPAL4	ENST00000311946.7	NIPA-like domain containing 4 	17	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0105	0.0732	0.3777	-0.20	-0.20	0.17	2009, 2011
+SGIP1	ENST00000371036.3	SH3-domain GRB2-like (endophilin) interacting protein 1 	180	1	0	0	1	3	1	1	1	1	hsa-miR-33a-5p	0.0078	0.0566	0.3704	-0.19	-0.31	0.31	2007, 2009, 2011
+TMED5	ENST00000479918.1	transmembrane emp24 protein transport domain containing 5 	612	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0054	0.0387	0.2403	-0.19	-0.19	0.31	2009, 2011
+MEIS2	ENST00000397624.3	Meis homeobox 2 	63	1	0	1	0	1	1	0	0	0	hsa-miR-33b-5p	0.0123	0.0878	0.5215	-0.19	-0.19	< 0.1	NULL
+AC007405.2	ENST00000409786.1	Uncharacterized protein  	11	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0055	0.0396	0.2421	-0.19	-0.19	0.31	NULL
+THAP1	ENST00000345117.2	THAP domain containing, apoptosis associated protein 1 	196	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0183	0.1216	0.5204	-0.19	-0.27	< 0.1	NULL
+SATB2	ENST00000417098.1	SATB homeobox 2 	820	2	0	2	0	0	0	0	0	0	hsa-miR-33a-5p	0.0238	0.1658	0.8708	-0.19	-0.21	0.21	2005, 2007, 2009, 2011
+RASSF8	ENST00000541490.1	Ras association (RalGDS/AF-6) domain family (N-terminal) member 8 	1290	1	0	1	0	1	0	0	1	2	hsa-miR-33a-5p	0.0214	0.1527	0.9178	-0.18	-0.18	0.45	2011
+UNCX	ENST00000316333.8	UNC homeobox 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0041	0.0298	0.1852	-0.18	-0.18	0.31	NULL
+SNX9	ENST00000392185.3	sorting nexin 9 	210	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0048	0.0346	0.2134	-0.18	-0.18	0.14	2009, 2011
+STRBP	ENST00000447404.2	spermatid perinuclear RNA binding protein 	575	1	0	0	1	0	0	0	0	1	hsa-miR-33b-5p	0.0082	0.0581	0.3307	-0.18	-0.18	0.31	2005, 2007, 2009, 2011
+SETD9	ENST00000285947.2	SET domain containing 9 	45	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0061	0.0424	0.2290	-0.18	-0.43	0.72	NULL
+CACNA1C	ENST00000399655.1	calcium channel, voltage-dependent, L type, alpha 1C subunit 	69	2	1	1	0	0	0	0	0	2	hsa-miR-33a-5p	0.0286	0.1734	0.5916	-0.18	-0.26	0.76	2011
+METTL9	ENST00000358154.3	methyltransferase like 9 	220	1	0	1	0	3	0	0	3	0	hsa-miR-33a-5p	0.0099	0.0721	0.4673	-0.17	-0.20	0.21	NULL
+CAMK2N1	ENST00000375078.3	calcium/calmodulin-dependent protein kinase II inhibitor 1 	6631	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0080	0.0565	0.3063	-0.17	-0.17	0.31	NULL
+ISOC2	ENST00000438389.2	isochorismatase domain containing 2 	1602	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0020	0.0148	0.0997	-0.17	-0.17	0.31	2005, 2007, 2011
+ST3GAL2	ENST00000342907.2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2 	102	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0104	0.0700	0.3076	-0.17	-0.27	0.40	2009, 2011
+CAMK4	ENST00000282356.4	calcium/calmodulin-dependent protein kinase IV 	73	1	0	1	0	3	2	0	1	1	hsa-miR-33a-5p	0.0320	0.2221	1.1565	-0.17	-0.20	0.21	2009, 2011
+NHLH2	ENST00000320238.3	nescient helix loop helix 2 	16	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0057	0.0406	0.2383	-0.17	-0.17	0.31	2005, 2007
+ATP8B1	ENST00000283684.4	ATPase, aminophospholipid transporter, class I, type 8B, member 1 	497	2	1	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0172	0.1203	0.6592	-0.17	-0.22	0.45	2007, 2009, 2011
+SEC24C	ENST00000345254.4	SEC24 family, member C (S. cerevisiae) 	8215	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0093	0.0649	0.3519	-0.17	-0.17	0.21	2005, 2007, 2009, 2011
+CELF2	ENST00000379261.4	CUGBP, Elav-like family member 2 	45	2	0	0	2	0	0	0	0	1	hsa-miR-33a-5p	0.0204	0.1475	0.9404	-0.17	-0.17	0.52	2005, 2007, 2011
+NUTF2	ENST00000219169.4	nuclear transport factor 2 	222	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0050	0.0357	0.2212	-0.17	-0.17	0.31	2005, 2007
+STT3B	ENST00000295770.2	STT3B, subunit of the oligosaccharyltransferase complex (catalytic) 	4458	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0151	0.1089	0.6948	-0.17	-0.23	0.21	NULL
+ABCB5	ENST00000404938.2	ATP-binding cassette, sub-family B (MDR/TAP), member 5 	5	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0098	0.0708	0.4526	-0.17	-0.17	0.31	2011
+HMGN1	ENST00000380749.5	high mobility group nucleosome binding domain 1 	375	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0038	0.0275	0.1729	-0.16	-0.16	< 0.1	2011
+PDE7A	ENST00000401827.3	phosphodiesterase 7A 	84	1	1	0	0	2	0	0	2	0	hsa-miR-33b-5p	0.0124	0.0874	0.4876	-0.16	-0.22	0.31	NULL
+GRM8	ENST00000358373.3	glutamate receptor, metabotropic 8 	26	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0090	0.0653	0.4165	-0.16	-0.16	0.31	2005, 2007, 2009
+SHISA5	ENST00000296444.2	shisa family member 5 	3921	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0065	0.0465	0.2904	-0.16	-0.16	0.31	2009, 2011
+CCNY	ENST00000374706.1	cyclin Y 	672	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0093	0.0642	0.3257	-0.16	-0.18	0.21	2011
+EPHA8	ENST00000166244.3	EPH receptor A8 	5	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0187	0.1239	0.5228	-0.16	-0.16	0.58	2005, 2007, 2009, 2011
+C8orf86	ENST00000358138.1	chromosome 8 open reading frame 86 	5	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0107	0.0755	0.4364	-0.16	-0.16	0.31	2011
+RASEF	ENST00000376447.3	RAS and EF-hand domain containing 	298	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0135	0.0953	0.5288	-0.16	-0.16	< 0.1	NULL
+HAS3	ENST00000306560.1	hyaluronan synthase 3 	15	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0161	0.1120	0.5842	-0.16	-0.16	< 0.1	2009, 2011
+LUC7L3	ENST00000505658.1	LUC7-like 3 (S. cerevisiae) 	2970	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0139	0.0965	0.5079	-0.16	-0.16	< 0.1	2009, 2011
+SEMA3A	ENST00000265362.4	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A 	162	1	0	0	1	1	0	0	1	4	hsa-miR-33b-5p	0.0111	0.0795	0.4814	-0.16	-0.19	0.31	2007, 2009, 2011
+RBM33	ENST00000341148.3	RNA binding motif protein 33 	444	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0166	0.1143	0.5686	-0.16	-0.16	0.21	2009, 2011
+CEND1	ENST00000330106.4	cell cycle exit and neuronal differentiation 1 	28	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0082	0.0585	0.3392	-0.16	-0.16	0.31	2011
+RMND5A	ENST00000283632.4	required for meiotic nuclear division 5 homolog A (S. cerevisiae) 	261	1	0	1	0	0	0	0	0	4	hsa-miR-33a-5p	0.0080	0.0581	0.3695	-0.16	-0.16	0.21	2009, 2011
+DNAJB5	ENST00000545841.1	DnaJ (Hsp40) homolog, subfamily B, member 5 	379	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0047	0.0340	0.2063	-0.16	-0.16	0.31	NULL
+HOXD10	ENST00000249501.4	homeobox D10 	182	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0059	0.0428	0.2717	-0.16	-0.16	0.31	NULL
+GPR135	ENST00000395116.1	G protein-coupled receptor 135 	40	1	0	0	1	1	0	0	1	0	hsa-miR-33b-5p	0.0108	0.0773	0.4608	-0.15	-0.15	0.31	2005, 2007, 2009, 2011
+BMP3	ENST00000282701.2	bone morphogenetic protein 3 	36	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0085	0.0607	0.3530	-0.15	-0.15	0.21	2009, 2011
+TWIST1	ENST00000242261.5	twist basic helix-loop-helix transcription factor 1 	190	1	0	0	1	1	0	0	1	4	hsa-miR-33b-5p	0.0105	0.0754	0.4646	-0.15	-0.22	0.31	2005, 2007, 2009, 2011
+GPR37	ENST00000303921.2	G protein-coupled receptor 37 (endothelin receptor type B-like) 	395	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0048	0.0348	0.2186	-0.15	-0.15	0.31	NULL
+PFN2	ENST00000239940.7	profilin 2 	2184	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0036	0.0260	0.1740	-0.15	-0.15	0.21	2011
+EIF2S2	ENST00000374980.2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa 	575	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0037	0.0269	0.1694	-0.15	-0.15	0.31	2005, 2007, 2009, 2011
+DKK1	ENST00000373970.3	dickkopf WNT signaling pathway inhibitor 1 	2384	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0051	0.0368	0.2302	-0.15	-0.15	0.31	2011
+RNF180	ENST00000389100.4	ring finger protein 180 	18	2	0	2	0	1	0	0	1	0	hsa-miR-33a-5p	0.0235	0.1620	0.8143	-0.15	-0.17	0.21	2009, 2011
+BLOC1S5	ENST00000397457.2	biogenesis of lysosomal organelles complex-1, subunit 5, muted 	187	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0050	0.0360	0.2213	-0.15	-0.15	0.31	NULL
+HMGCR	ENST00000287936.4	3-hydroxy-3-methylglutaryl-CoA reductase 	1385	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0118	0.0819	0.4273	-0.15	-0.16	0.21	2009, 2011
+HOXC13	ENST00000243056.3	homeobox C13 	63	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0038	0.0272	0.1714	-0.15	-0.15	0.31	2005, 2007, 2009, 2011
+LRRC4	ENST00000249363.3	leucine rich repeat containing 4 	26	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0046	0.0327	0.2000	-0.15	-0.15	0.31	2005, 2007, 2009, 2011
+MRPL49	ENST00000279242.2	mitochondrial ribosomal protein L49 	142	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0061	0.0433	0.2498	-0.15	-0.15	0.31	2009, 2011
+MTHFD2	ENST00000394053.2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase 	330	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0041	0.0294	0.1874	-0.14	-0.14	0.31	2009, 2011
+PAPOLG	ENST00000238714.3	poly(A) polymerase gamma 	49	1	0	1	0	0	0	0	0	3	hsa-miR-33a-5p	0.0150	0.1064	0.6160	-0.14	-0.15	0.21	2011
+CDC42BPA	ENST00000366767.3	CDC42 binding protein kinase alpha (DMPK-like) 	122	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0212	0.1448	0.7217	-0.14	-0.14	0.21	2009, 2011
+DSC3	ENST00000434452.1	desmocollin 3 	390	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0178	0.1240	0.6645	-0.14	-0.15	< 0.1	NULL
+AKAP2	ENST00000374525.1	A kinase (PRKA) anchor protein 2 	1287	1	1	0	0	1	0	1	0	0	hsa-miR-33a-5p	0.0209	0.1412	0.6544	-0.14	-0.14	0.34	2011
+FST	ENST00000396947.3	follistatin 	53	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0035	0.0250	0.1615	-0.14	-0.14	0.31	2011
+CS	ENST00000548567.1	citrate synthase 	52	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0081	0.0587	0.3768	-0.14	-0.14	0.31	2009, 2011
+IMPA2	ENST00000269159.3	inositol(myo)-1(or 4)-monophosphatase 2 	2916	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0027	0.0196	0.1285	-0.14	-0.14	0.31	2009, 2011
+CRK	ENST00000398970.5	v-crk avian sarcoma virus CT10 oncogene homolog 	1841	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0075	0.0532	0.3117	-0.14	-0.15	0.31	NULL
+CSNK1D	ENST00000392334.2	casein kinase 1, delta 	1799	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0070	0.0499	0.2834	-0.14	-0.14	0.21	2005, 2007, 2011
+RECK	ENST00000377966.3	reversion-inducing-cysteine-rich protein with kazal motifs 	10	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0113	0.0808	0.4902	-0.14	-0.14	0.31	2009, 2011
+KIAA1211L	ENST00000397899.2	KIAA1211-like 	7	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0108	0.0749	0.3744	-0.14	-0.14	0.21	2009, 2011
+USP46	ENST00000441222.3	ubiquitin specific peptidase 46 	180	1	0	1	0	1	0	1	0	1	hsa-miR-33a-5p	0.0158	0.1094	0.5680	-0.14	-0.16	0.21	NULL
+UNK	ENST00000293218.3	unkempt homolog (Drosophila) 	124	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0072	0.0514	0.3120	-0.14	-0.14	0.31	2011
+DUSP6	ENST00000279488.7	dual specificity phosphatase 6 	1056	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0075	0.0540	0.3367	-0.14	-0.14	0.31	2005, 2007, 2009, 2011
+SMAD7	ENST00000262158.2	SMAD family member 7 	142	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0071	0.0509	0.3083	-0.14	-0.14	0.31	2009, 2011
+CALN1	ENST00000329008.5	calneuron 1 	5	1	0	0	1	3	1	0	2	3	hsa-miR-33a-5p	0.0333	0.2334	1.3181	-0.14	-0.14	0.31	2005, 2007, 2009, 2011
+STS	ENST00000217961.4	steroid sulfatase (microsomal), isozyme S 	64	1	1	0	0	2	0	0	2	1	hsa-miR-33a-5p	0.0226	0.1577	0.8583	-0.13	-0.15	< 0.1	2011
+SKP1	ENST00000353411.6	S-phase kinase-associated protein 1 	416	2	0	1	1	0	0	0	0	5	hsa-miR-33a-5p	0.0049	0.0356	0.2371	-0.13	-0.18	0.31	NULL
+RERG	ENST00000256953.2	RAS-like, estrogen-regulated, growth inhibitor 	162	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0070	0.0508	0.3278	-0.13	-0.14	< 0.1	2009, 2011
+MBOAT2	ENST00000305997.3	membrane bound O-acyltransferase domain containing 2 	1145	1	0	0	1	2	0	1	1	2	hsa-miR-33a-5p	0.0102	0.0735	0.4528	-0.13	-0.23	0.46	2007, 2009, 2011
+SPIN1	ENST00000375859.3	spindlin 1 	686	1	1	0	0	4	1	0	3	1	hsa-miR-33a-5p	0.0149	0.1058	0.6136	-0.13	-0.37	< 0.1	2009, 2011
+FYN	ENST00000368682.3	FYN oncogene related to SRC, FGR, YES 	2659	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0076	0.0545	0.3447	-0.13	-0.13	0.31	NULL
+RASA1	ENST00000456692.2	RAS p21 protein activator (GTPase activating protein) 1 	1700	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0146	0.0998	0.4834	-0.13	-0.16	0.21	NULL
+ARID5B	ENST00000279873.7	AT rich interactive domain 5B (MRF1-like) 	397	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0408	0.2502	0.8894	-0.13	-0.13	0.50	2007, 2009, 2011
+KCNJ1	ENST00000392665.2	potassium inwardly-rectifying channel, subfamily J, member 1 	9	1	0	0	1	2	0	2	0	1	hsa-miR-33a-5p	0.0175	0.1239	0.7113	-0.13	-0.18	0.31	NULL
+PALM2-AKAP2	ENST00000374530.3	PALM2-AKAP2 readthrough 	1287	1	1	0	0	1	0	1	0	0	hsa-miR-33a-5p	0.0209	0.1412	0.6544	-0.13	-0.13	0.34	2009, 2009, 2011
+CCDC85A	ENST00000407595.2	coiled-coil domain containing 85A 	46	1	0	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0112	0.0810	0.5176	-0.13	-0.13	0.38	2011
+TMEM200B	ENST00000521452.1	transmembrane protein 200B 	152	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0045	0.0327	0.2064	-0.13	-0.13	0.31	2009, 2011
+UBA2	ENST00000246548.4	ubiquitin-like modifier activating enzyme 2 	122	1	0	1	0	0	0	0	0	0	hsa-miR-33b-5p	0.0174	0.1168	0.5190	-0.13	-0.13	0.21	NULL
+PPTC7	ENST00000354300.3	PTC7 protein phosphatase homolog (S. cerevisiae) 	817	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0158	0.1080	0.5283	-0.13	-0.13	0.27	NULL
+TMED7	ENST00000456936.3	transmembrane emp24 protein transport domain containing 7 	1571	1	0	1	0	1	0	0	1	2	hsa-miR-33a-5p	0.0098	0.0692	0.3931	-0.13	-0.18	< 0.1	NULL
+ALKBH1	ENST00000216489.3	alkB, alkylation repair homolog 1 (E. coli) 	223	1	0	0	1	1	0	1	0	0	hsa-miR-33a-5p	0.0061	0.0434	0.2547	-0.13	-0.20	0.31	2009, 2011
+TRIM6	ENST00000278302.5	tripartite motif containing 6 	302	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0051	0.0364	0.2270	-0.13	-0.13	0.31	2009, 2011
+EBF1	ENST00000313708.6	early B-cell factor 1 	42	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0232	0.1478	0.6010	-0.12	-0.21	0.43	2009, 2011
+TSPAN9	ENST00000537971.1	tetraspanin 9 	1410	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0161	0.0996	0.3331	-0.12	-0.25	0.49	2009, 2011
+SLC12A5	ENST00000243964.3	solute carrier family 12 (potassium/chloride transporter), member 5 	5	2	1	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0076	0.0547	0.3548	-0.12	-0.12	0.40	2005, 2007, 2009, 2011
+WDR47	ENST00000400794.3	WD repeat domain 47 	185	1	0	0	1	2	0	1	1	2	hsa-miR-33a-5p	0.0181	0.1307	0.8356	-0.12	-0.12	0.31	NULL
+ZNF496	ENST00000294753.4	zinc finger protein 496 	391	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0081	0.0586	0.3633	-0.12	-0.13	0.31	NULL
+PCDH10	ENST00000264360.5	protocadherin 10 	9	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0101	0.0720	0.4285	-0.12	-0.12	0.31	2005, 2007, 2009, 2011
+NTN1	ENST00000173229.2	netrin 1 	12	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0110	0.0787	0.4634	-0.12	-0.12	0.21	2009, 2011
+SYNCRIP	ENST00000355238.6	synaptotagmin binding, cytoplasmic RNA interacting protein 	4864	2	0	1	1	2	0	0	2	0	hsa-miR-33b-5p	0.0113	0.0806	0.4810	-0.12	-0.20	0.35	NULL
+ZFPM2	ENST00000407775.2	zinc finger protein, FOG family member 2 	595	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0068	0.0497	0.3280	-0.12	-0.12	0.31	2005, 2007, 2009, 2011
+FAM84A	ENST00000295092.2	family with sequence similarity 84, member A 	69	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0103	0.0731	0.4240	-0.12	-0.13	0.31	2011
+TBC1D12	ENST00000225235.4	TBC1 domain family, member 12 	172	1	0	0	1	1*	0	0	0	3	hsa-miR-33b-5p	0.0075	0.0538	0.3307	-0.12	-0.13	0.31	2009, 2011
+HS3ST4	ENST00000331351.5	heparan sulfate (glucosamine) 3-O-sulfotransferase 4 	5	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0074	0.0538	0.3525	-0.12	-0.12	0.31	2009, 2011
+ZFP36L1	ENST00000555997.1	ZFP36 ring finger protein-like 1 	231	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0039	0.0277	0.1651	-0.12	-0.16	0.31	2007, 2009, 2011
+ADO	ENST00000373783.1	2-aminoethanethiol (cysteamine) dioxygenase 	686	1	0	0	1	2	0	1	1	0	hsa-miR-33a-5p	0.0078	0.0565	0.3612	-0.12	-0.16	0.32	2009, 2011
+BTBD2	ENST00000255608.4	BTB (POZ) domain containing 2 	77	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0118	0.0832	0.4724	-0.12	-0.12	0.21	2005, 2007, 2011
+BAI3	ENST00000370598.1	brain-specific angiogenesis inhibitor 3 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0075	0.0550	0.3720	-0.12	-0.12	0.31	2009, 2011
+COLCA1	ENST00000532918.1	colorectal cancer associated 1 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0085	0.0597	0.3362	-0.12	-0.12	0.31	2005, 2007, 2009
+NCOA7	ENST00000392477.2	nuclear receptor coactivator 7 	2967	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0119	0.0864	0.5744	-0.12	-0.12	0.31	2011
+TPM3	ENST00000368531.2	tropomyosin 3 	669	1	0	1	0	0	0	0	0	2	hsa-miR-33a-5p	0.0154	0.1093	0.6303	-0.12	-0.12	0.21	2011
+TES	ENST00000358204.4	testis derived transcript (3 LIM domains) 	34	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0058	0.0418	0.2726	-0.12	-0.12	0.31	NULL
+KPNA4	ENST00000334256.4	karyopherin alpha 4 (importin alpha 3) 	111	1	0	1	0	2	1	1	0	1	hsa-miR-33a-5p	0.0156	0.1117	0.6699	-0.12	-0.14	0.21	2005, 2007, 2009, 2011
+HNRNPA3	ENST00000411529.2	heterogeneous nuclear ribonucleoprotein A3 	329	1	0	0	1	1	0	0	1	2	hsa-miR-33a-5p	0.0121	0.0868	0.5271	-0.11	-0.17	0.31	2009, 2011
+SKI	ENST00000378536.4	v-ski avian sarcoma viral oncogene homolog 	613	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0343	0.2202	0.8935	-0.11	-0.11	0.67	2011
+FAM160A1	ENST00000435205.1	family with sequence similarity 160, member A1 	18	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0062	0.0449	0.2894	-0.11	-0.11	0.31	NULL
+NCOA3	ENST00000341724.6	nuclear receptor coactivator 3 	282	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0099	0.0720	0.4703	-0.11	-0.15	0.31	2005, 2007, 2009, 2011
+PANK3	ENST00000239231.6	pantothenate kinase 3 	522	1	0	0	1	2	0	0	2	4	hsa-miR-33a-5p	0.0118	0.0850	0.5391	-0.11	-0.12	0.31	2009, 2011
+NCOA2	ENST00000452400.2	nuclear receptor coactivator 2 	271	1	0	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0228	0.1648	1.0672	-0.11	-0.11	0.31	NULL
+REEP1	ENST00000165698.5	receptor accessory protein 1 	49	1	0	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0089	0.0641	0.4134	-0.11	-0.11	0.31	2009, 2011
+KCND3	ENST00000369697.1	potassium voltage-gated channel, Shal-related subfamily, member 3 	23	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0220	0.1516	0.7863	-0.11	-0.11	0.21	NULL
+AHCYL1	ENST00000369799.5	adenosylhomocysteinase-like 1 	1279	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0035	0.0255	0.1710	-0.11	-0.11	0.31	2007, 2009, 2011
+ADGB	ENST00000367493.3	androglobin 	5	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0044	0.0317	0.2028	-0.11	-0.11	< 0.1	NULL
+PCDH18	ENST00000412923.2	protocadherin 18 	112	1	1	0	0	1	0	0	1	2	hsa-miR-33a-5p	0.0112	0.0749	0.3462	-0.11	-0.32	0.66	2009, 2011
+NAA30	ENST00000556492.1	N(alpha)-acetyltransferase 30, NatC catalytic subunit 	418	1	1	0	0	1	0	0	1	1	hsa-miR-33a-5p	0.0131	0.0922	0.5202	-0.11	-0.12	0.20	2007, 2009, 2011
+BTBD3	ENST00000254977.3	BTB (POZ) domain containing 3 	3798	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0079	0.0566	0.3532	-0.11	-0.12	0.31	2007, 2009, 2011
+KCNK1	ENST00000366621.3	potassium channel, subfamily K, member 1 	410	1	1	0	0	2	0	1	1	1	hsa-miR-33a-5p	0.0046	0.0338	0.2248	-0.11	-0.15	< 0.1	NULL
+TBX15	ENST00000207157.3	T-box 15 	14	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0051	0.0369	0.2496	-0.11	-0.11	0.31	2009, 2011
+CTTNBP2	ENST00000160373.3	cortactin binding protein 2 	29	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0072	0.0520	0.3303	-0.11	-0.11	0.31	NULL
+MAPK6	ENST00000261845.5	mitogen-activated protein kinase 6 	24	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0122	0.0871	0.5230	-0.11	-0.11	0.31	2009
+NAALADL2	ENST00000454872.1	N-acetylated alpha-linked acidic dipeptidase-like 2 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0084	0.0602	0.3588	-0.10	-0.10	0.31	2011
+KCTD1	ENST00000579973.1	potassium channel tetramerization domain containing 1 	33	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0025	0.0181	0.1217	-0.10	-0.18	0.31	NULL
+SEPT7	ENST00000435235.1	septin 7 	97	1	0	0	1	1	0	0	1	4	hsa-miR-33a-5p	0.0140	0.1015	0.6646	-0.10	-0.11	0.31	2005, 2007
+NEUROG2	ENST00000313341.3	neurogenin 2 	5	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0031	0.0226	0.1522	-0.10	-0.10	0.31	2005, 2007, 2011
+ROCK1	ENST00000399799.2	Rho-associated, coiled-coil containing protein kinase 1 	7	1	0	0	1	2	0	0	2	0	hsa-miR-33a-5p	0.0186	0.1343	0.8477	-0.10	-0.10	0.31	2007, 2011
+DACH1	ENST00000305425.4	dachshund homolog 1 (Drosophila) 	18	1	0	0	1	3	1	0	2	1	hsa-miR-33a-5p	0.0148	0.1062	0.6614	-0.10	-0.14	0.31	2011
+AC012215.1	ENST00000437887.1	Uncharacterized protein  	31	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0042	0.0302	0.1950	-0.10	-0.10	0.31	NULL
+SLU7	ENST00000297151.4	SLU7 splicing factor homolog (S. cerevisiae) 	320	1	1	0	0	0	0	0	0	0	hsa-miR-33b-5p	0.0081	0.0547	0.2519	-0.10	-0.21	< 0.1	2011
+TSHZ1	ENST00000322038.5	teashirt zinc finger homeobox 1 	174	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0103	0.0706	0.3474	-0.10	-0.14	0.21	NULL
+SYT11	ENST00000368324.4	synaptotagmin XI 	750	1	1	0	0	1	0	1	0	2	hsa-miR-33a-5p	0.0259	0.1800	0.9581	-0.10	-0.10	< 0.1	2009, 2011
+OXSR1	ENST00000311806.3	oxidative stress responsive 1 	1790	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0068	0.0488	0.2923	-0.10	-0.10	0.31	2007, 2009, 2011
+SLC6A5	ENST00000525748.1	solute carrier family 6 (neurotransmitter transporter), member 5 	5	2	1	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0147	0.1057	0.6463	-0.10	-0.10	0.31	NULL
+ALX4	ENST00000329255.3	ALX homeobox 4 	52	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0065	0.0471	0.2920	-0.10	-0.10	0.31	2011
+MDM4	ENST00000391947.2	Mdm4 p53 binding protein homolog (mouse) 	443	1	0	0	1	1	1	0	0	3	hsa-miR-33b-5p	0.0223	0.1579	0.9068	-0.10	-0.10	< 0.1	2011
+NDNF	ENST00000379692.4	neuron-derived neurotrophic factor 	51	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0103	0.0737	0.4418	-0.10	-0.10	0.31	2007
+FBXO34	ENST00000313833.4	F-box protein 34 	80	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0084	0.0597	0.3380	-0.10	-0.10	0.21	2009, 2011
+SLC30A4	ENST00000261867.4	solute carrier family 30 (zinc transporter), member 4 	19	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0073	0.0524	0.3162	-0.10	-0.10	0.31	NULL
+TSHZ2	ENST00000371497.5	teashirt zinc finger homeobox 2 	351	1	0	1	0	5	0	2	3	1	hsa-miR-33a-5p	0.0303	0.2171	1.3119	-0.10	-0.10	< 0.1	2011
+TSC22D2	ENST00000361875.3	TSC22 domain family, member 2 	1062	1	0	0	1	2	0	0	2	4	hsa-miR-33a-5p	0.0079	0.0571	0.3645	-0.10	-0.12	0.46	NULL
+PIAS4	ENST00000262971.2	protein inhibitor of activated STAT, 4 	521	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0045	0.0328	0.2194	-0.10	-0.10	0.31	NULL
+MDGA2	ENST00000439988.3	MAM domain-containing glycosylphosphatidylinositol anchor protein 2  	0	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0112	0.0799	0.4839	-0.10	-0.10	< 0.1	NULL
+CLGN	ENST00000325617.5	calmegin 	288	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0038	0.0277	0.1851	-0.09	-0.12	0.31	2009
+HIPK1	ENST00000369558.1	homeodomain interacting protein kinase 1 	930	1	0	1	0	0	0	0	0	2	hsa-miR-33a-5p	0.0191	0.1345	0.7615	-0.09	-0.10	0.21	2005, 2007, 2011
+ABR	ENST00000302538.5	active BCR-related 	58	1	0	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0063	0.0451	0.2844	-0.09	-0.13	0.31	2009, 2011
+KLHL15	ENST00000328046.8	kelch-like family member 15 	42	1	0	0	1	2	0	0	2	1	hsa-miR-33a-5p	0.0100	0.0732	0.4917	-0.09	-0.13	0.31	NULL
+SHISA7	ENST00000376325.4	shisa family member 7 	5	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0101	0.0725	0.4449	-0.09	-0.09	< 0.1	2011
+TRAM2	ENST00000182527.3	translocation associated membrane protein 2 	2774	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0087	0.0606	0.3224	-0.09	-0.09	0.31	2009, 2011
+ROBO2	ENST00000461745.1	roundabout, axon guidance receptor, homolog 2 (Drosophila) 	22	1	0	0	1	1	1	0	0	2	hsa-miR-33a-5p	0.0148	0.1061	0.6423	-0.09	-0.12	0.31	2007, 2009, 2011
+MACROD2	ENST00000217246.4	MACRO domain containing 2 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0059	0.0418	0.2474	-0.09	-0.09	0.31	2007, 2009, 2011
+TRAF3	ENST00000560371.1	TNF receptor-associated factor 3 	833	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0068	0.0488	0.2999	-0.09	-0.10	0.46	2011
+FAM81A	ENST00000288228.5	family with sequence similarity 81, member A 	53	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0107	0.0751	0.4173	-0.09	-0.09	< 0.1	NULL
+NRIP1	ENST00000400199.1	nuclear receptor interacting protein 1 	342	1	0	0	1	0	0	0	0	4	hsa-miR-33a-5p	0.0193	0.1403	0.9203	-0.09	-0.10	0.31	2005, 2007, 2009, 2011
+GALNT10	ENST00000297107.6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10 (GalNAc-T10) 	3445	2	0	1	1	1	0	0	1	1	hsa-miR-33a-5p	0.0130	0.0939	0.5937	-0.09	-0.09	0.45	2009, 2011
+PRICKLE2	ENST00000295902.6	prickle homolog 2 (Drosophila) 	20	2	0	1	1	3	0	2	1	0	hsa-miR-33a-5p	0.0302	0.2136	1.2271	-0.09	-0.09	0.45	2005, 2007, 2009, 2011
+ZNF385B	ENST00000410066.1	zinc finger protein 385B 	17	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0066	0.0477	0.3073	-0.09	-0.09	0.31	2011
+TMEM260	ENST00000261556.6	transmembrane protein 260 	44	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0098	0.0710	0.4599	-0.09	-0.09	0.31	2009, 2011
+RAB30	ENST00000533486.1	RAB30, member RAS oncogene family 	274	1	0	0	1	2	0	0	2	3	hsa-miR-33a-5p	0.0151	0.1089	0.6894	-0.09	-0.10	0.31	NULL
+CDK8	ENST00000536792.1	cyclin-dependent kinase 8 	280	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0054	0.0387	0.2286	-0.09	-0.09	0.21	2009, 2011
+MTF1	ENST00000373036.4	metal-regulatory transcription factor 1 	98	2	0	1	1	0	0	0	0	0	hsa-miR-33a-5p	0.0180	0.1287	0.7842	-0.09	-0.09	0.45	2007, 2009, 2011
+ZMIZ1	ENST00000334512.5	zinc finger, MIZ-type containing 1 	568	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0161	0.1088	0.5042	-0.09	-0.09	0.52	2009, 2011
+LHX6	ENST00000373755.2	LIM homeobox 6 	196	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0041	0.0296	0.1838	-0.09	-0.09	0.31	2009, 2011
+DPP10	ENST00000410059.1	dipeptidyl-peptidase 10 (non-functional) 	5	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0240	0.1652	0.8531	-0.09	-0.09	< 0.1	2005, 2007
+PAPOLA	ENST00000557471.1	poly(A) polymerase alpha 	1229	2	0	0	2	0	0	0	0	0	hsa-miR-33a-5p	0.0024	0.0173	0.1125	-0.08	-0.11	< 0.1	NULL
+HSPA8	ENST00000532636.1	heat shock 70kDa protein 8 	9	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0013	0.0096	0.0647	-0.08	-0.16	0.31	2005, 2007, 2009, 2011
+CADM2	ENST00000383699.3	cell adhesion molecule 2 	5	1	0	0	1	6	0	1	5	3	hsa-miR-33a-5p	0.0381	0.2741	1.7050	-0.08	-0.08	0.38	2011
+DCUN1D1	ENST00000292782.4	DCN1, defective in cullin neddylation 1, domain containing 1 	267	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0120	0.0868	0.5562	-0.08	-0.09	0.31	2007
+PCNX	ENST00000304743.2	pecanex homolog (Drosophila) 	458	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0232	0.1637	0.9480	-0.08	-0.10	0.21	2009, 2011
+KIAA1549L	ENST00000321505.4	KIAA1549-like 	117	1	0	1	0	3	1	2	0	1	hsa-miR-33a-5p	0.0301	0.2098	1.1141	-0.08	-0.09	< 0.1	NULL
+BACH2	ENST00000257749.4	BTB and CNC homology 1, basic leucine zipper transcription factor 2 	74	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0131	0.0924	0.5241	-0.08	-0.10	0.21	2009, 2011
+ADAMTS3	ENST00000286657.4	ADAM metallopeptidase with thrombospondin type 1 motif, 3 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0146	0.1012	0.5200	-0.08	-0.08	0.21	2009, 2011
+PCDHA5	ENST00000529859.1	protocadherin alpha 5 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0104	0.0739	0.4406	-0.08	-0.08	0.31	NULL
+PCDHA3	ENST00000522353.2	protocadherin alpha 3 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0099	0.0704	0.4156	-0.08	-0.08	0.31	NULL
+PCDHA11	ENST00000398640.2	protocadherin alpha 11 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0093	0.0659	0.3832	-0.08	-0.08	0.31	NULL
+PCDHA8	ENST00000531613.1	protocadherin alpha 8 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0093	0.0661	0.3845	-0.08	-0.08	0.31	NULL
+PCDHA2	ENST00000526136.1	protocadherin alpha 2 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0092	0.0654	0.3797	-0.08	-0.08	0.31	NULL
+PCDHA1	ENST00000504120.2	protocadherin alpha 1 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0092	0.0654	0.3797	-0.08	-0.08	0.31	NULL
+PCDHA10	ENST00000307360.5	protocadherin alpha 10 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0092	0.0654	0.3797	-0.08	-0.08	0.31	NULL
+PCDHA12	ENST00000398631.2	protocadherin alpha 12 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0093	0.0659	0.3832	-0.08	-0.08	0.31	NULL
+PCDHAC1	ENST00000253807.2	protocadherin alpha subfamily C, 1 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0094	0.0666	0.3882	-0.08	-0.08	0.31	NULL
+PCDHA4	ENST00000530339.1	protocadherin alpha 4 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0093	0.0660	0.3844	-0.08	-0.08	0.31	NULL
+PCDHA7	ENST00000525929.1	protocadherin alpha 7 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0096	0.0683	0.4010	-0.08	-0.08	0.31	NULL
+PCDHA13	ENST00000289272.2	protocadherin alpha 13 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0093	0.0658	0.3822	-0.08	-0.08	0.31	NULL
+PCDHA9	ENST00000532602.1	protocadherin alpha 9 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0096	0.0686	0.4028	-0.08	-0.08	0.31	NULL
+PCDHA6	ENST00000529310.1	protocadherin alpha 6 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0097	0.0691	0.4067	-0.08	-0.08	0.31	NULL
+CPEB2	ENST00000538197.1	cytoplasmic polyadenylation element binding protein 2 	367	1	0	0	1	2	0	0	2	3	hsa-miR-33a-5p	0.0218	0.1576	1.0077	-0.08	-0.08	0.51	2005, 2007, 2009, 2011
+TARDBP	ENST00000240185.3	TAR DNA binding protein 	410	1	0	0	1	1	0	1	0	1	hsa-miR-33a-5p	0.0045	0.0324	0.1989	-0.08	-0.17	0.31	NULL
+CHN2	ENST00000222792.6	chimerin 2 	95	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0092	0.0659	0.3954	-0.08	-0.09	0.21	2005, 2007, 2011
+RGS17	ENST00000367225.2	regulator of G-protein signaling 17 	11	1	0	0	1	1	0	0	1	6	hsa-miR-33a-5p	0.0157	0.1132	0.7098	-0.08	-0.15	0.31	NULL
+GABRB2	ENST00000393959.1	gamma-aminobutyric acid (GABA) A receptor, beta 2 	5	1	0	0	1	0	0	0	0	5	hsa-miR-33a-5p	0.0231	0.1672	1.0871	-0.08	-0.08	0.31	2009, 2011
+PCDHAC2	ENST00000289269.5	protocadherin alpha subfamily C, 2 	86	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0094	0.0669	0.3905	-0.08	-0.08	0.31	NULL
+GDNF	ENST00000326524.2	glial cell derived neurotrophic factor 	7	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0118	0.0836	0.4843	-0.08	-0.08	0.21	2011
+SLITRK3	ENST00000475390.1	SLIT and NTRK-like family, member 3 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0115	0.0813	0.4678	-0.08	-0.08	0.21	2005, 2007
+PSME3	ENST00000541124.1	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki) 	3605	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0027	0.0193	0.1276	-0.08	-0.08	< 0.1	NULL
+WNT10B	ENST00000407467.1	wingless-type MMTV integration site family, member 10B 	13	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0041	0.0297	0.1996	-0.08	-0.08	< 0.1	NULL
+PDPK1	ENST00000441549.3	3-phosphoinositide dependent protein kinase-1 	104	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0068	0.0484	0.2698	-0.08	-0.08	0.31	2005, 2007, 2009, 2011
+PIK3R3	ENST00000262741.5	phosphoinositide-3-kinase, regulatory subunit 3 (gamma) 	335	1	0	0	1	1	0	1	0	0	hsa-miR-33a-5p	0.0068	0.0489	0.3142	-0.08	-0.10	0.31	2009, 2011
+RORB	ENST00000376896.3	RAR-related orphan receptor B 	5	1	0	0	1	3	1	1	1	3	hsa-miR-33a-5p	0.0324	0.2283	1.3153	-0.07	-0.07	0.31	NULL
+TERF2	ENST00000254942.3	telomeric repeat binding factor 2 	709	1	0	0	1	1	1	0	0	0	hsa-miR-33a-5p	0.0061	0.0433	0.2517	-0.07	-0.21	0.31	NULL
+UBR5	ENST00000520539.1	ubiquitin protein ligase E3 component n-recognin 5 	733	1	0	1	0	0	0	0	0	2	hsa-miR-33a-5p	0.0134	0.0968	0.6340	-0.07	-0.13	0.21	2011
+KCNJ13	ENST00000409779.1	potassium inwardly-rectifying channel, subfamily J, member 13 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0034	0.0245	0.1679	-0.07	-0.07	< 0.1	NULL
+TBC1D15	ENST00000550746.1	TBC1 domain family, member 15 	1164	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0078	0.0565	0.3593	-0.07	-0.10	< 0.1	2011
+ONECUT2	ENST00000491143.2	one cut homeobox 2 	847	2	1	1	0	2	0	1	1	4	hsa-miR-33a-5p	0.0251	0.1804	1.1303	-0.07	-0.08	0.54	2007, 2009, 2011
+ZSWIM6	ENST00000252744.5	zinc finger, SWIM-type containing 6 	933	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0073	0.0520	0.3078	-0.07	-0.07	0.31	NULL
+KMT2E	ENST00000334877.4	lysine (K)-specific methyltransferase 2E 	654	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0055	0.0401	0.2745	-0.07	-0.07	0.31	NULL
+NLGN1	ENST00000457714.1	neuroligin 1 	36	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0090	0.0652	0.4119	-0.07	-0.07	0.31	NULL
+FGF14	ENST00000376131.4	fibroblast growth factor 14 	5	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0111	0.0789	0.4593	-0.07	-0.07	0.27	2011
+DST	ENST00000312431.6	dystonin 	439	1	1	0	0	2	0	2	0	0	hsa-miR-33a-5p	0.0289	0.1990	1.0329	-0.07	-0.07	< 0.1	2011
+PDE8A	ENST00000310298.4	phosphodiesterase 8A 	183	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0089	0.0646	0.4151	-0.07	-0.10	0.31	2009
+TRPC4	ENST00000379705.3	transient receptor potential cation channel, subfamily C, member 4 	21	1	0	0	1	1	0	0	1	2	hsa-miR-33a-5p	0.0097	0.0698	0.4432	-0.07	-0.15	0.31	NULL
+SAMD8	ENST00000372687.4	sterile alpha motif domain containing 8 	100	1	0	0	1	3	0	1	2	0	hsa-miR-33a-5p	0.0112	0.0809	0.5098	-0.07	-0.10	< 0.1	2005, 2007
+TET2	ENST00000545826.1	tet methylcytosine dioxygenase 2 	558	1	1	0	0	2	0	0	2	4	hsa-miR-33a-5p	0.0318	0.2235	1.2704	-0.07	-0.07	< 0.1	NULL
+VCL	ENST00000372755.3	vinculin 	189	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0054	0.0388	0.2523	-0.07	-0.10	0.31	2011
+ADCYAP1	ENST00000579794.1	adenylate cyclase activating polypeptide 1 (pituitary) 	35	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0027	0.0185	0.0883	-0.07	-0.57	< 0.1	2009, 2011
+ABHD13	ENST00000375898.3	abhydrolase domain containing 13 	479	1	1	0	0	1	0	0	1	3	hsa-miR-33a-5p	0.0092	0.0647	0.3729	-0.07	-0.17	< 0.1	2009, 2011
+EDNRB	ENST00000377211.4	endothelin receptor type B 	5	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0152	0.1036	0.4987	-0.07	-0.07	< 0.1	2011
+GDI2	ENST00000380191.4	GDP dissociation inhibitor 2 	664	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0089	0.0639	0.4038	-0.07	-0.07	0.21	NULL
+ERBB2IP	ENST00000284037.5	erbb2 interacting protein 	177	1	0	0	1	2	0	0	2	1	hsa-miR-33a-5p	0.0103	0.0739	0.4472	-0.07	-0.08	0.31	2005, 2007, 2011
+RPGRIP1L	ENST00000262135.4	RPGRIP1-like 	55	2	0	0	2	1	0	0	1	1	hsa-miR-33a-5p	0.0047	0.0339	0.2277	-0.07	-0.19	0.52	NULL
+EVI5	ENST00000370331.1	ecotropic viral integration site 5 	172	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0068	0.0495	0.3401	-0.07	-0.07	0.31	NULL
+ADD3	ENST00000277900.8	adducin 3 (gamma) 	537	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0094	0.0685	0.4593	-0.07	-0.07	0.31	NULL
+ANK3	ENST00000280772.2	ankyrin 3, node of Ranvier (ankyrin G) 	74	1	0	1	0	1	0	1	0	2	hsa-miR-33a-5p	0.0227	0.1649	1.0808	-0.07	-0.07	0.21	2011
+HAS2	ENST00000303924.4	hyaluronan synthase 2 	398	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0083	0.0595	0.3704	-0.07	-0.12	< 0.1	NULL
+ESRRG	ENST00000361525.3	estrogen-related receptor gamma 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0092	0.0667	0.4320	-0.07	-0.07	0.31	2005, 2007, 2009, 2011
+PDIK1L	ENST00000374271.4	PDLIM1 interacting kinase 1 like 	5	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0053	0.0386	0.2608	-0.07	-0.07	0.31	2009
+SAMD4A	ENST00000392067.3	sterile alpha motif domain containing 4A 	449	1	0	1	0	2	0	0	2	1	hsa-miR-33a-5p	0.0115	0.0824	0.5016	-0.06	-0.07	0.45	2011
+S1PR1	ENST00000305352.6	sphingosine-1-phosphate receptor 1 	251	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0124	0.0857	0.4237	-0.06	-0.11	0.21	2009, 2011
+MAP3K1	ENST00000399503.3	mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase 	137	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0096	0.0678	0.3816	-0.06	-0.06	< 0.1	NULL
+SH3KBP1	ENST00000397821.3	SH3-domain kinase binding protein 1 	109	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0060	0.0434	0.2815	-0.06	-0.10	0.31	2005, 2007, 2011
+LDLRAD4	ENST00000399848.3	low density lipoprotein receptor class A domain containing 4 	314	2	1	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0135	0.0957	0.5650	-0.06	-0.15	0.52	2009, 2011
+SETD7	ENST00000274031.3	SET domain containing (lysine methyltransferase) 7 	76	1	1	0	0	1	0	1	0	1	hsa-miR-33a-5p	0.0093	0.0596	0.2709	-0.06	-0.34	0.60	2007, 2009, 2011
+DENND5B	ENST00000389082.5	DENN/MADD domain containing 5B 	832	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0139	0.1001	0.6328	-0.06	-0.07	0.31	2009, 2011
+KLF7	ENST00000423015.1	Kruppel-like factor 7 (ubiquitous) 	737	1	1	0	0	1	0	0	1	1	hsa-miR-33a-5p	0.0205	0.1445	0.8303	-0.06	-0.06	0.20	NULL
+NFIX	ENST00000360105.4	nuclear factor I/X (CCAAT-binding transcription factor) 	24	2	0	1	1	0	0	0	0	0	hsa-miR-33a-5p	0.0113	0.0781	0.3922	-0.06	-0.07	0.45	2005, 2007, 2009, 2011
+HIPK2	ENST00000406875.3	homeodomain interacting protein kinase 2 	48	1	1	0	0	2	0	1	1	3	hsa-miR-33a-5p	0.0486	0.3174	1.4482	-0.06	-0.06	0.65	2005, 2007, 2009, 2011
+KIAA1024	ENST00000305428.3	KIAA1024 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0082	0.0591	0.3787	-0.06	-0.06	0.31	2009, 2011
+CPEB3	ENST00000412050.4	cytoplasmic polyadenylation element binding protein 3 	48	2	0	1	1	1	0	1	0	2	hsa-miR-33a-5p	0.0260	0.1816	0.9879	-0.06	-0.07	0.45	NULL
+LARP4B	ENST00000316157.3	La ribonucleoprotein domain family, member 4B 	705	2	0	0	2	0	0	0	0	3	hsa-miR-33a-5p	0.0098	0.0701	0.4328	-0.06	-0.08	0.52	2009, 2011
+NCOA1	ENST00000405141.1	nuclear receptor coactivator 1 	200	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0052	0.0379	0.2557	-0.06	-0.06	0.31	2005, 2007, 2009, 2011
+ADRA2A	ENST00000280155.2	adrenoceptor alpha 2A 	239	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0114	0.0786	0.3867	-0.06	-0.06	< 0.1	2009, 2011
+STYX	ENST00000354586.4	serine/threonine/tyrosine interacting protein 	250	1	0	0	1	0	0	0	0	2	hsa-miR-33b-5p	0.0068	0.0488	0.3108	-0.06	-0.11	0.31	2009, 2011
+LIN28A	ENST00000326279.6	lin-28 homolog A (C. elegans) 	5	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0099	0.0718	0.4604	-0.06	-0.06	0.31	2009, 2011
+USP6	ENST00000332776.4	ubiquitin specific peptidase 6 (Tre-2 oncogene) 	5	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0166	0.1177	0.6740	-0.06	-0.06	0.21	2005, 2007, 2009, 2011
+RNF19B	ENST00000356990.5	ring finger protein 19B 	45	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0017	0.0127	0.0868	-0.06	-0.06	< 0.1	NULL
+MRS2	ENST00000274747.7	MRS2 magnesium transporter 	826	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0029	0.0208	0.1358	-0.06	-0.17	< 0.1	NULL
+DGKH	ENST00000261491.5	diacylglycerol kinase, eta 	46	1	0	0	1	1	0	1	0	5	hsa-miR-33a-5p	0.0269	0.1919	1.1601	-0.06	-0.07	0.31	NULL
+AGMAT	ENST00000375826.3	agmatine ureohydrolase (agmatinase) 	331	1	1	0	0	1	0	1	0	0	hsa-miR-33a-5p	0.0059	0.0412	0.2178	-0.06	-0.14	< 0.1	2011
+MEIS1	ENST00000488550.1	Meis homeobox 1 	533	2	0	0	2	0	0	0	0	0	hsa-miR-33a-5p	0.0084	0.0598	0.3453	-0.06	-0.06	0.52	NULL
+DCAF8	ENST00000556710.1	DDB1- and CUL4-associated factor 8  	1924	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0018	0.0133	0.0891	-0.06	-0.07	0.31	NULL
+CDR2L	ENST00000337231.5	cerebellar degeneration-related protein 2-like 	28	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0114	0.0808	0.4647	-0.06	-0.06	< 0.1	2007, 2009, 2011
+SCN8A	ENST00000354534.6	sodium channel, voltage gated, type VIII, alpha subunit 	44	1	1	0	0	1	0	1	0	2	hsa-miR-33a-5p	0.0262	0.1839	1.0180	-0.06	-0.06	0.29	2005, 2007, 2009, 2011
+RBPMS2	ENST00000560606.1	RNA binding protein with multiple splicing 2 	34	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0016	0.0113	0.0697	-0.05	-0.25	0.31	2007, 2009, 2011
+ZDHHC3	ENST00000296127.3	zinc finger, DHHC-type containing 3 	426	1	0	0	1	1	0	0	1	9	hsa-miR-33a-5p	0.0097	0.0702	0.4596	-0.05	-0.07	0.31	2007, 2009, 2011
+SEL1L3	ENST00000399878.3	sel-1 suppressor of lin-12-like 3 (C. elegans) 	155	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0040	0.0291	0.1828	-0.05	-0.11	0.31	2009, 2011
+PHF12	ENST00000577226.1	PHD finger protein 12 	307	1	1	0	0	1	0	1	0	2	hsa-miR-33a-5p	0.0302	0.2028	0.9306	-0.05	-0.05	0.32	2009, 2011
+EPC2	ENST00000258484.6	enhancer of polycomb homolog 2 (Drosophila) 	152	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0045	0.0327	0.2265	-0.05	-0.05	0.31	2011
+PLD5	ENST00000536534.2	phospholipase D family, member 5 	5	1	0	0	1	1	0	0	1	2	hsa-miR-33a-5p	0.0123	0.0889	0.5705	-0.05	-0.05	0.31	2011
+NOMO2	ENST00000330537.6	NODAL modulator 2 	5	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0103	0.0716	0.3722	-0.05	-0.05	< 0.1	2011
+PDE4D	ENST00000340635.6	phosphodiesterase 4D, cAMP-specific 	747	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0100	0.0728	0.4780	-0.05	-0.06	0.31	2007, 2009, 2011
+ENC1	ENST00000302351.4	ectodermal-neural cortex 1 (with BTB domain) 	57	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0112	0.0781	0.4265	-0.05	-0.07	< 0.1	2009, 2011
+PURB	ENST00000395699.2	purine-rich element binding protein B 	497	1	0	1	0	1	0	0	1	3	hsa-miR-33a-5p	0.0097	0.0698	0.4311	-0.05	-0.07	0.21	2005, 2007, 2009, 2011
+TFDP2	ENST00000499676.2	transcription factor Dp-2 (E2F dimerization partner 2) 	128	1	0	1	0	2	0	1	1	0	hsa-miR-33a-5p	0.0038	0.0271	0.1612	-0.05	-0.13	0.21	2011
+NOMO1	ENST00000287667.7	NODAL modulator 1 	5	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0103	0.0716	0.3723	-0.05	-0.05	< 0.1	NULL
+PPP6C	ENST00000373547.4	protein phosphatase 6, catalytic subunit 	346	1	0	0	1	1	0	1	0	1	hsa-miR-33a-5p	0.0035	0.0248	0.1498	-0.05	-0.22	0.31	NULL
+SH2B3	ENST00000341259.2	SH2B adaptor protein 3 	89	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0060	0.0431	0.2645	-0.05	-0.06	0.31	2007, 2009, 2011
+HECW1	ENST00000395891.2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1 	11	2	1	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0095	0.0669	0.3799	-0.05	-0.12	0.31	NULL
+TRPM3	ENST00000377110.3	transient receptor potential cation channel, subfamily M, member 3 	11	1	0	1	0	1	0	0	1	3	hsa-miR-33a-5p	0.0268	0.1913	1.1617	-0.05	-0.06	0.21	NULL
+NR4A2	ENST00000409108.2	nuclear receptor subfamily 4, group A, member 2 	1631	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0037	0.0270	0.1795	-0.05	-0.05	< 0.1	2005, 2007
+FRS2	ENST00000550389.1	fibroblast growth factor receptor substrate 2 	176	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0087	0.0632	0.4103	-0.05	-0.10	0.31	2007, 2009, 2011
+MAP4K4	ENST00000413150.2	mitogen-activated protein kinase kinase kinase kinase 4 	1551	1	0	1	0	2	0	1	1	2	hsa-miR-33a-5p	0.0147	0.0983	0.4645	-0.05	-0.12	0.21	2005, 2007, 2009, 2011
+C2orf69	ENST00000319974.5	chromosome 2 open reading frame 69 	82	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0034	0.0246	0.1615	-0.05	-0.05	0.31	2009, 2011
+PDGFRA	ENST00000257290.5	platelet-derived growth factor receptor, alpha polypeptide 	39	2	1	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0200	0.1416	0.8034	-0.05	-0.05	0.21	2011
+CSRNP3	ENST00000314499.7	cysteine-serine-rich nuclear protein 3 	24	1	1	0	0	1	0	1	0	4	hsa-miR-33a-5p	0.0264	0.1879	1.1017	-0.05	-0.05	< 0.1	2011
+MSRB3	ENST00000308259.5	methionine sulfoxide reductase B3 	83	1	0	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0069	0.0496	0.3115	-0.05	-0.13	0.50	2009, 2011
+NFYB	ENST00000240055.3	nuclear transcription factor Y, beta 	375	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0017	0.0128	0.0863	-0.05	-0.08	0.31	2009, 2011
+RFX3	ENST00000382004.3	regulatory factor X, 3 (influences HLA class II expression) 	37	1	1	0	0	2	0	1	1	2	hsa-miR-33a-5p	0.0181	0.1275	0.7216	-0.05	-0.07	0.30	NULL
+AFF3	ENST00000409236.2	AF4/FMR2 family, member 3 	296	1	1	0	0	1	0	1	0	4	hsa-miR-33a-5p	0.0334	0.2325	1.2524	-0.05	-0.05	< 0.1	2009, 2011
+SYDE2	ENST00000341460.5	synapse defective 1, Rho GTPase, homolog 2 (C. elegans) 	72	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0140	0.1010	0.6499	-0.05	-0.05	0.31	2009, 2011
+ERC1	ENST00000355446.5	ELKS/RAB6-interacting/CAST family member 1 	159	2	0	1	1	1	0	1	0	0	hsa-miR-33a-5p	0.0135	0.0973	0.6012	-0.05	-0.05	0.31	2011
+ZNF24	ENST00000589881.1	zinc finger protein 24 	1796	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0079	0.0574	0.3697	-0.05	-0.05	< 0.1	NULL
+CREBBP	ENST00000262367.5	CREB binding protein 	532	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0095	0.0681	0.4095	-0.05	-0.05	0.31	NULL
+SOCS5	ENST00000306503.5	suppressor of cytokine signaling 5 	72	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0093	0.0675	0.4452	-0.05	-0.05	0.31	NULL
+LPPR4	ENST00000370185.3	Lipid phosphate phosphatase-related protein type 4  	5	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0183	0.1285	0.7148	-0.05	-0.05	< 0.1	NULL
+PRKAA1	ENST00000397128.2	protein kinase, AMP-activated, alpha 1 catalytic subunit 	1415	2	1	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0103	0.0742	0.4767	-0.05	-0.05	0.31	2005, 2007, 2009, 2011
+FAM46C	ENST00000369448.3	family with sequence similarity 46, member C 	74	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0035	0.0252	0.1554	-0.05	-0.16	< 0.1	2009, 2011
+EPHA4	ENST00000281821.2	EPH receptor A4 	64	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0057	0.0419	0.2894	-0.05	-0.06	0.31	2005, 2007, 2009, 2011
+GRID2	ENST00000282020.4	glutamate receptor, ionotropic, delta 2 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0066	0.0481	0.3213	-0.04	-0.04	0.31	NULL
+SMG1	ENST00000446231.2	SMG1 phosphatidylinositol 3-kinase-related kinase 	339	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0133	0.0969	0.6510	-0.04	-0.07	< 0.1	2007, 2009, 2011
+CNOT2	ENST00000229195.3	CCR4-NOT transcription complex, subunit 2 	1189	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0024	0.0173	0.1044	-0.04	-0.11	0.31	NULL
+BAG2	ENST00000370693.5	BCL2-associated athanogene 2 	2237	1	1	0	0	1	0	1	0	3	hsa-miR-33a-5p	0.0030	0.0214	0.1378	-0.04	-0.27	< 0.1	NULL
+CREBRF	ENST00000540014.1	CREB3 regulatory factor 	24	1	0	0	1	1	1	0	0	1	hsa-miR-33a-5p	0.0062	0.0451	0.2929	-0.04	-0.07	0.31	2005, 2007, 2011
+ZNF207	ENST00000394670.4	zinc finger protein 207 	839	1	0	1	0	1	0	1	0	2	hsa-miR-33a-5p	0.0164	0.1183	0.7448	-0.04	-0.06	0.21	NULL
+CACNA1D	ENST00000288139.4	calcium channel, voltage-dependent, L type, alpha 1D subunit 	5	1	0	0	1	0	0	0	0	3	hsa-miR-33a-5p	0.0145	0.1053	0.6863	-0.04	-0.04	0.31	NULL
+SNRK	ENST00000429705.2	SNF related kinase 	153	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0105	0.0752	0.4462	-0.04	-0.04	0.21	2005, 2007, 2011
+KCNS2	ENST00000287042.4	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 2 	5	1	1	0	0	1	0	0	1	2	hsa-miR-33a-5p	0.0124	0.0896	0.5754	-0.04	-0.04	< 0.1	NULL
+QKI	ENST00000392127.2	QKI, KH domain containing, RNA binding 	323	2	0	0	2	3	0	0	3	4	hsa-miR-33a-5p	0.0173	0.1250	0.7988	-0.04	-0.06	0.52	2005, 2007, 2011
+SNTB2	ENST00000336278.4	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2) 	254	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0103	0.0739	0.4427	-0.04	-0.05	0.31	2009, 2011
+ST18	ENST00000276480.7	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein) 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0086	0.0626	0.4039	-0.04	-0.04	0.21	2005, 2007, 2009, 2011
+FAM179B	ENST00000382233.2	family with sequence similarity 179, member B 	12	2	0	1	1	0	0	0	0	1	hsa-miR-33a-5p	0.0145	0.1032	0.6109	-0.04	-0.04	< 0.1	NULL
+BCL11B	ENST00000357195.3	B-cell CLL/lymphoma 11B (zinc finger protein) 	73	1	0	0	1	1	1	0	0	3	hsa-miR-33a-5p	0.0210	0.1501	0.9052	-0.04	-0.04	0.31	2005, 2007, 2009, 2011
+NUFIP2	ENST00000225388.4	nuclear fragile X mental retardation protein interacting protein 2 	440	2	1	0	1	1	0	0	1	2	hsa-miR-33a-5p	0.0083	0.0587	0.3553	-0.04	-0.07	0.41	2007, 2009, 2011
+HMX3	ENST00000357878.5	H6 family homeobox 3 	9	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0047	0.0328	0.1639	-0.04	-0.10	0.21	NULL
+RIMBP2	ENST00000261655.4	RIMS binding protein 2 	7	1	1	0	0	1	0	0	1	5	hsa-miR-33a-5p	0.0257	0.1841	1.1201	-0.04	-0.04	0.27	2007, 2009, 2011
+GABRA4	ENST00000264318.3	gamma-aminobutyric acid (GABA) A receptor, alpha 4 	5	1	0	1	0	1	0	0	1	3	hsa-miR-33b-5p	0.0292	0.2075	1.2274	-0.04	-0.04	0.21	2011
+CAMK2G	ENST00000351293.3	calcium/calmodulin-dependent protein kinase II gamma 	14	1	0	1	0	1	0	1	0	0	hsa-miR-33a-5p	0.0149	0.1051	0.5802	-0.04	-0.04	0.21	2003, 2005, 2007, 2009, 2011
+PIP4K2C	ENST00000354947.5	phosphatidylinositol-5-phosphate 4-kinase, type II, gamma 	457	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0035	0.0255	0.1713	-0.04	-0.04	0.31	2005, 2007, 2009, 2011
+CERK	ENST00000216264.8	ceramide kinase 	123	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0115	0.0808	0.4457	-0.04	-0.04	< 0.1	NULL
+GRIN3A	ENST00000361820.3	glutamate receptor, ionotropic, N-methyl-D-aspartate 3A 	5	1	0	0	1	1	0	1	0	1	hsa-miR-33a-5p	0.0175	0.1233	0.6830	-0.04	-0.04	0.31	2005, 2007, 2009, 2011
+NFIA	ENST00000403491.3	nuclear factor I/A 	5	2	0	1	1	0	0	0	0	5	hsa-miR-33a-5p	0.0355	0.2518	1.4581	-0.04	-0.04	0.45	2011
+FAM126B	ENST00000418596.3	family with sequence similarity 126, member B 	132	1	0	1	0	3	0	0	3	3	hsa-miR-33a-5p	0.0155	0.1121	0.7162	-0.04	-0.06	0.28	2011
+MAP3K3	ENST00000361357.3	mitogen-activated protein kinase kinase kinase 3 	144	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0062	0.0442	0.2545	-0.04	-0.04	0.21	2007, 2009, 2011
+TTBK2	ENST00000267890.6	tau tubulin kinase 2 	18	1	0	0	1	1	1	0	0	3	hsa-miR-33a-5p	0.0199	0.1415	0.8470	-0.04	-0.04	0.31	NULL
+SCN10A	ENST00000449082.2	sodium channel, voltage-gated, type X, alpha subunit 	5	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0066	0.0474	0.2858	-0.04	-0.04	< 0.1	NULL
+REEP3	ENST00000373758.4	receptor accessory protein 3 	1095	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0053	0.0384	0.2396	-0.04	-0.04	< 0.1	NULL
+HCN1	ENST00000303230.4	hyperpolarization activated cyclic nucleotide-gated potassium channel 1 	5	1	0	0	1	1	0	1	0	3	hsa-miR-33a-5p	0.0142	0.1024	0.6575	-0.04	-0.06	0.31	NULL
+ATXN7L1	ENST00000419735.3	ataxin 7-like 1 	67	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0072	0.0519	0.3195	-0.04	-0.04	0.21	2009, 2011
+CDK16	ENST00000457458.2	cyclin-dependent kinase 16 	2095	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0015	0.0111	0.0707	-0.03	-0.13	0.31	2007, 2009, 2011
+ST8SIA3	ENST00000324000.3	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3 	5	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0120	0.0876	0.5839	-0.03	-0.03	0.31	NULL
+TCF4	ENST00000354452.3	transcription factor 4 	394	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0120	0.0858	0.5257	-0.03	-0.04	0.21	2011
+NAP1L4	ENST00000380542.4	nucleosome assembly protein 1-like 4 	7751	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0048	0.0352	0.2401	-0.03	-0.03	< 0.1	2011
+CTBP2	ENST00000337195.5	C-terminal binding protein 2 	16	1	0	1	0	1	0	1	0	0	hsa-miR-33a-5p	0.0070	0.0497	0.2936	-0.03	-0.10	< 0.1	NULL
+MLXIP	ENST00000319080.7	MLX interacting protein 	69	1	0	1	0	0	0	0	0	1	hsa-miR-33b-5p	0.0056	0.0386	0.2046	-0.03	-0.12	0.21	NULL
+PLEKHA8	ENST00000449726.1	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 8 	661	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0165	0.1153	0.6300	-0.03	-0.04	< 0.1	2011
+SIM2	ENST00000290399.6	single-minded homolog 2 (Drosophila) 	108	1	0	0	1	1	0	1	0	0	hsa-miR-33a-5p	0.0040	0.0282	0.1600	-0.03	-0.11	0.31	2011
+VCAN	ENST00000265077.3	versican 	542	1	0	1	0	1	0	1	0	3	hsa-miR-33a-5p	0.0170	0.1175	0.6098	-0.03	-0.09	0.21	2011
+DDX46	ENST00000452510.2	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46 	472	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0026	0.0188	0.1230	-0.03	-0.15	0.31	NULL
+DESI1	ENST00000263256.6	desumoylating isopeptidase 1 	1513	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0015	0.0111	0.0683	-0.03	-0.16	0.31	2011
+CLPX	ENST00000300107.3	caseinolytic mitochondrial matrix peptidase chaperone subunit 	251	1	0	1	0	0	0	0	0	2	hsa-miR-33a-5p	0.0064	0.0467	0.3150	-0.03	-0.03	0.21	2005, 2007
+DAB2IP	ENST00000408936.3	DAB2 interacting protein 	1787	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0043	0.0311	0.1977	-0.03	-0.03	0.31	2009, 2011
+TNRC6C	ENST00000335749.4	trinucleotide repeat containing 6C 	248	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0115	0.0830	0.5368	-0.03	-0.04	0.31	2011
+PDE3B	ENST00000282096.4	phosphodiesterase 3B, cGMP-inhibited 	258	1	1	0	0	1	0	1	0	1	hsa-miR-33a-5p	0.0144	0.1029	0.6139	-0.03	-0.05	0.14	2011
+DLGAP2	ENST00000421627.2	discs, large (Drosophila) homolog-associated protein 2 	5	1	0	0	1	1	0	1	0	1	hsa-miR-33a-5p	0.0090	0.0645	0.4063	-0.03	-0.03	0.31	2007, 2009, 2011
+GHR	ENST00000230882.4	growth hormone receptor 	102	1	0	0	1	2	0	1	1	0	hsa-miR-33a-5p	0.0088	0.0630	0.3922	-0.03	-0.04	0.31	NULL
+KAT6B	ENST00000287239.4	K(lysine) acetyltransferase 6B 	266	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0055	0.0401	0.2816	-0.03	-0.03	0.31	NULL
+NAV3	ENST00000228327.6	neuron navigator 3 	277	1	0	0	1	1	0	1	0	0	hsa-miR-33a-5p	0.0099	0.0709	0.4345	-0.03	-0.03	0.31	NULL
+GSE1	ENST00000253458.7	Gse1 coiled-coil protein 	133	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0133	0.0929	0.5031	-0.03	-0.03	< 0.1	2009, 2011
+IRS2	ENST00000375856.3	insulin receptor substrate 2 	231	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0112	0.0806	0.5079	-0.03	-0.03	< 0.1	2005, 2007, 2009, 2011
+SLC35E1	ENST00000595753.1	solute carrier family 35, member E1 	4273	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0058	0.0416	0.2487	-0.03	-0.03	< 0.1	2011
+SREBF1	ENST00000395757.1	sterol regulatory element binding transcription factor 1 	387	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0011	0.0080	0.0524	-0.03	-0.08	0.31	2011
+SIK1	ENST00000270162.6	salt-inducible kinase 1 	2163	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0031	0.0224	0.1444	-0.03	-0.03	< 0.1	2009, 2011
+KIAA1432	ENST00000414202.2	KIAA1432 	1366	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0049	0.0357	0.2520	-0.03	-0.03	0.31	2011
+ASXL2	ENST00000435504.4	additional sex combs like 2 (Drosophila) 	139	1	0	0	1	1	0	0	1	3	hsa-miR-33a-5p	0.0138	0.0998	0.6426	-0.03	-0.03	0.31	NULL
+SCN1A	ENST00000423058.2	sodium channel, voltage-gated, type I, alpha subunit 	21	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0137	0.0953	0.4965	-0.03	-0.04	0.21	NULL
+UBN2	ENST00000473989.3	ubinuclein 2 	238	2	0	0	2	0	0	0	0	0	hsa-miR-33b-5p	0.0135	0.0972	0.5994	-0.03	-0.03	0.52	2009, 2011
+ONECUT3	ENST00000382349.4	one cut homeobox 3 	5	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0092	0.0667	0.4211	-0.03	-0.03	0.31	NULL
+LINGO1	ENST00000355300.6	leucine rich repeat and Ig domain containing 1 	42	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0012	0.0088	0.0625	-0.03	-0.04	0.31	2007, 2009, 2011
+PTBP3	ENST00000374257.1	polypyrimidine tract binding protein 3 	214	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0061	0.0443	0.2833	-0.03	-0.09	0.31	2007
+MRPS25	ENST00000253686.2	mitochondrial ribosomal protein S25 	630	1	1	0	0	1	0	0	1	2	hsa-miR-33b-5p	0.0044	0.0249	0.0772	-0.03	-0.39	0.69	2005, 2007, 2009, 2011
+SGCD	ENST00000435422.3	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein) 	39	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0152	0.1084	0.6607	-0.03	-0.03	0.21	2011
+MT1A	ENST00000290705.8	metallothionein 1A 	19	1	0	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0036	0.0265	0.1758	-0.03	-0.12	0.31	NULL
+SYT14	ENST00000399639.2	synaptotagmin XIV 	16	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0029	0.0213	0.1439	-0.03	-0.03	< 0.1	NULL
+RLIM	ENST00000332687.6	ring finger protein, LIM domain interacting 	662	1	0	1	0	0	0	0	0	6	hsa-miR-33a-5p	0.0171	0.1220	0.7395	-0.02	-0.03	0.21	2005, 2007, 2011
+DCP1A	ENST00000607628.1	decapping mRNA 1A 	87	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0073	0.0525	0.3227	-0.02	-0.03	0.31	2011
+CAPZB	ENST00000375142.1	capping protein (actin filament) muscle Z-line, beta 	545	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0011	0.0083	0.0591	-0.02	-0.12	0.31	2007
+PCDH7	ENST00000543491.1	protocadherin 7 	95	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0119	0.0860	0.5630	-0.02	-0.02	0.31	2009, 2011
+USP32	ENST00000300896.4	ubiquitin specific peptidase 32 	85	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0072	0.0515	0.3070	-0.02	-0.06	0.21	2005, 2007, 2009, 2011
+TRPS1	ENST00000395715.3	trichorhinophalangeal syndrome I 	94	1	1	0	0	1	0	0	1	2	hsa-miR-33a-5p	0.0150	0.1075	0.6733	-0.02	-0.04	< 0.1	2005, 2007, 2009, 2011
+RNF165	ENST00000269439.7	ring finger protein 165 	18	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0049	0.0359	0.2510	-0.02	-0.02	0.31	2007, 2009, 2011
+CREBZF	ENST00000398294.2	CREB/ATF bZIP transcription factor 	1115	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0062	0.0442	0.2574	-0.02	-0.02	0.21	2007, 2009, 2011
+CDYL2	ENST00000570137.2	chromodomain protein, Y-like 2 	239	1	1	0	0	0	0	0	0	3	hsa-miR-33a-5p	0.0149	0.1048	0.5831	-0.02	-0.03	< 0.1	NULL
+ATP1B1	ENST00000367816.1	ATPase, Na+/K+ transporting, beta 1 polypeptide 	656	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0011	0.0077	0.0439	-0.02	-0.14	0.21	2005, 2007, 2009, 2011
+MYPN	ENST00000358913.5	myopalladin 	73	1	0	1	0	5	0	2	3	4	hsa-miR-33a-5p	0.0088	0.0639	0.4105	-0.02	-0.10	0.21	NULL
+LAMC1	ENST00000258341.4	laminin, gamma 1 (formerly LAMB2) 	1082	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0060	0.0437	0.2988	-0.02	-0.05	0.31	2009, 2011
+SLC16A7	ENST00000261187.4	solute carrier family 16 (monocarboxylate transporter), member 7 	73	1	1	0	0	2	0	1	1	1	hsa-miR-33a-5p	0.0081	0.0584	0.3722	-0.02	-0.06	< 0.1	NULL
+CALML4	ENST00000395465.3	calmodulin-like 4 	307	2	1	1	0	1	0	0	1	1	hsa-miR-33b-5p	0.0012	0.0085	0.0508	-0.02	-0.50	0.29	2005, 2007, 2009, 2011
+HNRNPA2B1	ENST00000354667.4	heterogeneous nuclear ribonucleoprotein A2/B1 	25319	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0030	0.0213	0.1187	-0.02	-0.14	< 0.1	2009, 2011
+PTGFRN	ENST00000393203.2	prostaglandin F2 receptor inhibitor 	591	1	0	1	0	1	0	0	1	0	hsa-miR-33a-5p	0.0075	0.0516	0.2502	-0.02	-0.05	0.28	2005, 2007, 2009, 2011
+SLC24A4	ENST00000393265.2	solute carrier family 24 (sodium/potassium/calcium exchanger), member 4 	5	1	0	0	1	1	0	1	0	1	hsa-miR-33a-5p	0.0101	0.0707	0.3754	-0.02	-0.05	0.31	2011
+CACNA1E	ENST00000526775.1	calcium channel, voltage-dependent, R type, alpha 1E subunit 	5	1	0	0	1	1	0	0	1	6	hsa-miR-33a-5p	0.0207	0.1498	0.9657	-0.02	-0.02	0.31	2011
+NOVA1	ENST00000465357.2	neuro-oncological ventral antigen 1 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0046	0.0335	0.2283	-0.02	-0.02	0.21	2009, 2011
+CNNM1	ENST00000356713.4	cyclin M1 	45	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0035	0.0255	0.1677	-0.02	-0.02	0.21	2005, 2007, 2009, 2011
+RUNX1T1	ENST00000523629.1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related) 	9	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0098	0.0706	0.4348	-0.02	-0.02	0.21	2011
+CCDC144A	ENST00000443444.2	coiled-coil domain containing 144A 	5	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0176	0.1253	0.7420	-0.02	-0.02	0.21	NULL
+PACSIN1	ENST00000244458.2	protein kinase C and casein kinase substrate in neurons 1 	25	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0087	0.0613	0.3324	-0.02	-0.02	0.21	2009, 2011
+GIGYF1	ENST00000275732.5	GRB10 interacting GYF protein 1 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0013	0.0095	0.0664	-0.02	-0.02	0.21	2007, 2009, 2011
+CASC3	ENST00000264645.7	cancer susceptibility candidate 3 	493	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0045	0.0321	0.1971	-0.02	-0.02	< 0.1	2005, 2007, 2009, 2011
+KCNC3	ENST00000376959.2	potassium voltage-gated channel, Shaw-related subfamily, member 3 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0053	0.0384	0.2637	-0.02	-0.02	< 0.1	NULL
+MTDH	ENST00000336273.3	metadherin 	5192	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0061	0.0448	0.3029	-0.02	-0.03	0.31	2011
+CPEB4	ENST00000265085.5	cytoplasmic polyadenylation element binding protein 4 	472	1	0	0	1	0	0	0	0	5	hsa-miR-33a-5p	0.0179	0.1306	0.8722	-0.02	-0.02	0.31	2005, 2007
+CTDSPL2	ENST00000260327.4	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2 	457	1	0	1	0	0	0	0	0	3	hsa-miR-33a-5p	0.0062	0.0451	0.2994	-0.02	-0.02	< 0.1	NULL
+PNMA2	ENST00000522362.2	paraneoplastic Ma antigen 2 	362	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0076	0.0542	0.3300	-0.02	-0.02	< 0.1	2009, 2011
+KIF1B	ENST00000377086.1	kinesin family member 1B 	234	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0106	0.0764	0.4823	-0.02	-0.02	0.21	2011
+CNTN4	ENST00000427331.1	contactin 4 	191	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0184	0.1307	0.7600	-0.02	-0.02	0.21	2005, 2007, 2009, 2011
+AP5M1	ENST00000261558.3	adaptor-related protein complex 5, mu 1 subunit 	198	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0047	0.0339	0.2235	-0.02	-0.04	0.31	NULL
+TMEM65	ENST00000297632.6	transmembrane protein 65 	769	1	0	0	1	0	0	0	0	3	hsa-miR-33a-5p	0.0038	0.0277	0.1867	-0.02	-0.05	0.31	NULL
+ZFHX4	ENST00000521891.2	zinc finger homeobox 4 	194	2	0	0	2	0	0	0	0	2	hsa-miR-33a-5p	0.0130	0.0945	0.6333	-0.02	-0.02	0.52	2007, 2009, 2011
+NPAT	ENST00000278612.8	nuclear protein, ataxia-telangiectasia locus 	163	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0089	0.0635	0.3796	-0.02	-0.02	0.21	2009, 2011
+ATP8A1	ENST00000381668.5	ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1 	48	1	0	1	0	0	0	0	0	4	hsa-miR-33a-5p	0.0143	0.1036	0.6832	-0.02	-0.02	0.21	2009, 2011
+ZCCHC14	ENST00000268616.4	zinc finger, CCHC domain containing 14 	64	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0079	0.0562	0.3323	-0.02	-0.02	< 0.1	2005, 2007
+DDX3X	ENST00000399959.2	DEAD (Asp-Glu-Ala-Asp) box helicase 3, X-linked 	965	1	0	0	1	1	0	1	0	2	hsa-miR-33a-5p	0.0030	0.0216	0.1336	-0.02	-0.09	0.31	2005, 2007, 2009, 2011
+PJA2	ENST00000361189.2	praja ring finger 2, E3 ubiquitin protein ligase 	220	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0025	0.0185	0.1279	-0.02	-0.05	0.31	2005, 2007, 2009, 2011
+KIAA0907	ENST00000368320.3	KIAA0907 	48	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0085	0.0610	0.3771	-0.02	-0.02	< 0.1	NULL
+AKAP12	ENST00000402676.2	A kinase (PRKA) anchor protein 12 	913	1	1	0	0	1	0	0	1	0	hsa-miR-33a-5p	0.0034	0.0239	0.1387	-0.02	-0.07	< 0.1	2011
+FOXP1	ENST00000318789.4	forkhead box P1 	264	1	0	0	1	2	0	1	1	2	hsa-miR-33a-5p	0.0064	0.0469	0.3250	-0.02	-0.14	0.33	2005, 2007
+XBP1	ENST00000344347.5	X-box binding protein 1 	452	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0012	0.0087	0.0557	-0.02	-0.22	0.21	2011
+C18orf25	ENST00000282059.6	chromosome 18 open reading frame 25 	688	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0099	0.0709	0.4258	-0.02	-0.02	0.21	2009, 2011
+TNS4	ENST00000254051.6	tensin 4 	40	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0035	0.0253	0.1642	-0.02	-0.02	0.31	NULL
+MLLT3	ENST00000380338.4	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 3 	385	1	0	1	0	0	0	0	0	3	hsa-miR-33a-5p	0.0104	0.0749	0.4782	-0.02	-0.02	< 0.1	2005, 2007
+TANC2	ENST00000424789.2	tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2 	155	1	0	1	0	0	0	0	0	2	hsa-miR-33a-5p	0.0153	0.1098	0.6708	-0.01	-0.02	0.21	2009, 2011
+PDPN	ENST00000294489.6	podoplanin 	264	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0032	0.0231	0.1542	-0.01	-0.02	< 0.1	NULL
+SEMA7A	ENST00000261918.4	semaphorin 7A, GPI membrane anchor (John Milton Hagen blood group) 	65	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0040	0.0282	0.1704	-0.01	-0.18	0.21	2011
+STRN	ENST00000263918.4	striatin, calmodulin binding protein 	476	1	0	0	1	2	0	1	1	2	hsa-miR-33a-5p	0.0080	0.0585	0.3895	-0.01	-0.10	0.31	2011
+CHD1	ENST00000284049.3	chromodomain helicase DNA binding protein 1 	35	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0040	0.0282	0.1615	-0.01	-0.08	0.21	NULL
+SRGAP1	ENST00000355086.3	SLIT-ROBO Rho GTPase activating protein 1 	64	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0090	0.0635	0.3613	-0.01	-0.02	0.21	2011
+RP11-315D16.2	ENST00000562767.1	Uncharacterized protein  	304	1	0	1	0	1	0	0	1	1	hsa-miR-33b-5p	0.0014	0.0100	0.0658	-0.01	-0.29	0.21	NULL
+KPNA3	ENST00000261667.3	karyopherin alpha 3 (importin alpha 4) 	104	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0042	0.0309	0.2096	-0.01	-0.02	< 0.1	2005, 2007
+ADD1	ENST00000398125.1	adducin 1 (alpha) 	460	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0035	0.0257	0.1747	-0.01	-0.01	0.31	2005, 2007, 2009, 2011
+BRWD3	ENST00000373275.4	bromodomain and WD repeat domain containing 3 	506	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0098	0.0718	0.4872	-0.01	-0.04	0.31	2011
+ZBTB46	ENST00000245663.4	zinc finger and BTB domain containing 46 	71	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0054	0.0393	0.2560	-0.01	-0.01	0.31	2011
+SUV39H1	ENST00000453214.2	suppressor of variegation 3-9 homolog 1 (Drosophila) 	499	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0036	0.0260	0.1769	-0.01	-0.01	< 0.1	NULL
+FAM120A	ENST00000333936.5	family with sequence similarity 120A 	57	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0020	0.0149	0.1045	-0.01	-0.06	0.31	2007, 2009, 2011
+PAQR3	ENST00000512733.1	progestin and adipoQ receptor family member III 	217	1	0	0	1	2	0	0	2	0	hsa-miR-33a-5p	0.0039	0.0281	0.1807	-0.01	-0.04	0.31	NULL
+GPCPD1	ENST00000379019.4	glycerophosphocholine phosphodiesterase GDE1 homolog (S. cerevisiae) 	155	1	1	0	0	1	0	0	1	1	hsa-miR-33a-5p	0.0063	0.0450	0.2684	-0.01	-0.04	< 0.1	2009, 2011
+YTHDF3	ENST00000539294.1	YTH domain family, member 3 	444	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0071	0.0515	0.3204	-0.01	-0.01	0.31	2009, 2011
+RFX7	ENST00000423270.1	regulatory factor X, 7 	1049	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0045	0.0330	0.2222	-0.01	-0.01	0.31	2007, 2011
+SCIN	ENST00000297029.5	scinderin 	23	1	0	0	1	1	0	1	0	4	hsa-miR-33a-5p	0.0065	0.0469	0.2930	-0.01	-0.06	0.31	NULL
+RIMS2	ENST00000507740.1	regulating synaptic membrane exocytosis 2 	8	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0068	0.0491	0.3214	-0.01	-0.01	0.31	NULL
+ALPK3	ENST00000258888.5	alpha-kinase 3 	16	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0018	0.0134	0.0940	-0.01	-0.01	0.31	2009, 2011
+KMT2D	ENST00000301067.7	lysine (K)-specific methyltransferase 2D 	78	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0067	0.0487	0.3207	-0.01	-0.01	0.31	2007, 2009, 2011
+MYT1L	ENST00000399161.2	myelin transcription factor 1-like 	5	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0053	0.0390	0.2662	-0.01	-0.01	0.31	NULL
+AXL	ENST00000301178.4	AXL receptor tyrosine kinase 	976	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0054	0.0369	0.1823	-0.01	-0.02	0.21	2009, 2011
+TTLL7	ENST00000260505.8	tubulin tyrosine ligase-like family, member 7 	93	1	0	0	1	1	0	0	1	0	hsa-miR-33a-5p	0.0076	0.0550	0.3588	-0.01	-0.02	0.31	NULL
+SPPL3	ENST00000353487.2	signal peptide peptidase like 3 	799	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0024	0.0172	0.1033	-0.01	-0.02	0.21	2011
+CD302	ENST00000259053.4	CD302 molecule 	860	1	1	0	0	1*	0	0	0	2	hsa-miR-33a-5p	0.0026	0.0188	0.1249	-0.01	-0.19	< 0.1	2011
+CDH6	ENST00000265071.2	cadherin 6, type 2, K-cadherin (fetal kidney) 	213	1	0	0	1	1	0	0	1	1	hsa-miR-33a-5p	0.0014	0.0102	0.0688	-0.01	-0.06	0.38	2011
+PLEKHA3	ENST00000234453.5	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 3 	767	1	1	0	0	1	1	0	0	2	hsa-miR-33a-5p	0.0040	0.0283	0.1748	-0.01	-0.16	< 0.1	NULL
+ST3GAL6	ENST00000265261.6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6 	150	1	1	0	0	2	1	1	0	0	hsa-miR-33a-5p	0.0006	0.0041	0.0236	-0.01	-0.22	< 0.1	NULL
+PPP1R9A	ENST00000289495.5	protein phosphatase 1, regulatory subunit 9A 	46	1	0	0	1	1	0	0	1	3	hsa-miR-33a-5p	0.0124	0.0897	0.5820	-0.01	-0.02	0.31	2007, 2009, 2011
+KCTD16	ENST00000507359.3	potassium channel tetramerization domain containing 16 	36	1	0	1	0	2	0	1	1	3	hsa-miR-33a-5p	0.0044	0.0320	0.1998	-0.01	-0.05	0.21	NULL
+TULP4	ENST00000367094.2	tubby like protein 4 	93	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0074	0.0537	0.3440	-0.01	-0.01	0.31	2009, 2011
+PDE3A	ENST00000359062.3	phosphodiesterase 3A, cGMP-inhibited 	1182	1	1	0	0	0	0	0	0	2	hsa-miR-33a-5p	0.0039	0.0284	0.1791	-0.01	-0.03	< 0.1	NULL
+UNC5D	ENST00000287272.2	unc-5 homolog D (C. elegans) 	37	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0060	0.0437	0.2904	-0.01	-0.01	0.31	NULL
+PSMG1	ENST00000331573.3	proteasome (prosome, macropain) assembly chaperone 1 	31	1	1	0	0	1	0	1	0	1	hsa-miR-33a-5p	0.0034	0.0242	0.1428	-0.01	-0.05	0.14	NULL
+FGF12	ENST00000445105.2	fibroblast growth factor 12 	150	1	0	0	1	3	0	0	3	0	hsa-miR-33a-5p	0.0013	0.0092	0.0598	-0.01	-0.20	0.31	2011
+WDFY3	ENST00000322366.6	WD repeat and FYVE domain containing 3 	596	1	0	0	1	0	0	0	0	2	hsa-miR-33a-5p	0.0133	0.0968	0.6484	-0.01	-0.07	0.31	2005, 2007
+PDZD8	ENST00000334464.5	PDZ domain containing 8 	99	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0017	0.0126	0.0780	-0.01	-0.03	0.31	NULL
+PLEKHM3	ENST00000427836.2	pleckstrin homology domain containing, family M, member 3 	11	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0022	0.0165	0.1166	-0.01	-0.14	< 0.1	NULL
+TIMM9	ENST00000395159.2	translocase of inner mitochondrial membrane 9 homolog (yeast) 	539	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0011	0.0079	0.0518	-0.01	-0.21	< 0.1	NULL
+SDC3	ENST00000336798.7	syndecan 3 	34	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0033	0.0227	0.1159	-0.01	-0.03	< 0.1	2011
+TBCEL	ENST00000422003.2	tubulin folding cofactor E-like 	89	1	0	0	1	0	0	0	0	3	hsa-miR-33a-5p	0.0047	0.0342	0.2162	0	-0.03	0.31	NULL
+SESTD1	ENST00000428443.3	SEC14 and spectrin domains 1 	478	1	1	0	0	1	0	0	1	4	hsa-miR-33a-5p	0.0029	0.0209	0.1342	0	-0.04	< 0.1	NULL
+ZNF324	ENST00000536459.2	zinc finger protein 324 	82	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0014	0.0096	0.0527	0	-0.03	0.21	NULL
+SHANK2	ENST00000449833.2	SH3 and multiple ankyrin repeat domains 2 	26	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0095	0.0676	0.4026	0	-0.02	0.21	2005, 2007, 2009, 2011
+SBNO1	ENST00000420886.2	strawberry notch homolog 1 (Drosophila) 	87	1	0	1	0	0	0	0	0	2	hsa-miR-33a-5p	0.0029	0.0209	0.1269	0	-0.02	0.21	2011
+STXBP5	ENST00000367481.3	syntaxin binding protein 5 (tomosyn) 	555	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0023	0.0169	0.1092	0	-0.03	< 0.1	NULL
+TFCP2L1	ENST00000263707.5	transcription factor CP2-like 1 	36	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0005	0.0035	0.0247	0	-0.02	0.31	2011
+NDUFB9	ENST00000276689.3	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa 	225	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0002	0.0016	0.0082	0	-0.17	0.21	NULL
+EHD4	ENST00000220325.4	EH-domain containing 4 	515	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0010	0.0070	0.0477	0	-0.04	0.21	NULL
+RND2	ENST00000544533.1	Rho family GTPase 2 	26	1	0	0	1	0	0	0	0	1	hsa-miR-33a-5p	0.0006	0.0044	0.0290	0	-0.01	0.31	2011
+DNAJC15	ENST00000379221.2	DnaJ (Hsp40) homolog, subfamily C, member 15 	3290	1	0	0	1	2	0	0	2	1	hsa-miR-33a-5p	0.0000	0.0004	0.0024	0	-0.13	0.31	NULL
+STAU2	ENST00000522695.1	staufen double-stranded RNA binding protein 2 	306	1	0	1	0	1	1	0	0	0	hsa-miR-33a-5p	0.0015	0.0106	0.0735	0	-0.05	0.21	NULL
+LY75-CD302	ENST00000504764.1	LY75-CD302 readthrough 	855	1	1	0	0	1*	0	0	0	2	hsa-miR-33a-5p	0.0045	0.0325	0.2240	0	-0.03	< 0.1	2011
+GBX2	ENST00000551105.1	gastrulation brain homeobox 2 	53	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0001	0.0004	0.0026	0	-0.09	0.31	NULL
+CYB5R4	ENST00000369681.5	cytochrome b5 reductase 4 	329	1	0	0	1	3	0	0	3	2	hsa-miR-33a-5p	0.0002	0.0015	0.0100	0	-0.06	0.31	NULL
+ABI2	ENST00000295851.5	abl-interactor 2 	877	2	0	2	0	2	1	0	1	7	hsa-miR-33a-5p	0.0024	0.0171	0.1109	0	-0.11	0.40	NULL
+HUNK	ENST00000270112.2	hormonally up-regulated Neu-associated kinase 	85	1	0	0	1	0	0	0	0	0	hsa-miR-33a-5p	0.0001	0.0006	0.0044	0	-0.01	0.31	2009, 2011
+RAB41	ENST00000374473.2	RAB41, member RAS oncogene family 	5	1	1	0	0	0	0	0	0	0	hsa-miR-33a-5p	0.0000	0.0002	0.0009	0	-0.34	< 0.1	NULL
+LRRC4C	ENST00000278198.2	leucine rich repeat containing 4C 	5	1	0	0	1	2	0	0	2	0	hsa-miR-33a-5p	0.0000	0.0001	0.0008	0	-0.27	0.52	NULL
+ABCB11	ENST00000263817.6	ATP-binding cassette, sub-family B (MDR/TAP), member 11 	5	1	0	1	0	2	0	1	1	5	hsa-miR-33a-5p	0.0020	0.0144	0.1021	0	-0.14	< 0.1	NULL
+NCKAP1	ENST00000361354.4	NCK-associated protein 1 	700	1	0	0	1	0	0	0	0	5	hsa-miR-33a-5p	0.0044	0.0323	0.2259	0	-0.03	0.31	NULL
+FTO	ENST00000471389.1	fat mass and obesity associated 	240	1	0	0	1	0	0	0	0	3	hsa-miR-33a-5p	0.0033	0.0238	0.1636	0	-0.01	0.31	NULL
+POFUT2	ENST00000349485.5	protein O-fucosyltransferase 2 	842	1	0	1	0	1	0	0	1	1	hsa-miR-33a-5p	0.0001	0.0005	0.0026	0	-0.03	0.21	NULL
+PPL	ENST00000345988.2	periplakin 	849	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0000	0.0002	0.0011	0	-0.06	0.21	NULL
+MORF4L1	ENST00000331268.5	mortality factor 4 like 1 	1137	1	0	1	0	0	0	0	0	1	hsa-miR-33a-5p	0.0003	0.0025	0.0181	0	-0.05	< 0.1	2005, 2007, 2011
+IQSEC2	ENST00000375365.2	IQ motif and Sec7 domain 2 	5	1	0	1	0	0	0	0	0	0	hsa-miR-33a-5p	0.0003	0.0020	0.0144	0	-0.05	0.21	2009, 2011
+KCNK15	ENST00000372861.3	potassium channel, subfamily K, member 15 	23	1	1	0	0	0	0	0	0	1	hsa-miR-33a-5p	0.0000	0.0000	0.0002	0	-0.18	0.20	2011
