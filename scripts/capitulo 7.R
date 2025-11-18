@@ -1,3 +1,7 @@
+####Script Short Reads
+
+
+
 BiocManager::install("Rqc")
 library(Rqc)
 
@@ -140,6 +144,7 @@ fin <- qAlign(sampleFile2, genomeFile)
 fin2 <- qAlign(sampleFile2, genomeFile)
 fin
 fin2
+
 
 
 
