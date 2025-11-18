@@ -69,7 +69,8 @@ Imagenes en la carpeta genes diana.
 En la carpetas de resultados gráficas, diagrama de Venn, archivos Txt genes diana
 Carpeta de guiones: cargue de documento el arte de programar en R
 - Frank Melo Restrepo
-En la carpetas de resultados gráficas, diagrama de Venn, archivos Txt genes diana
-Carpeta de guiones: cargue de documento el arte de programar en R
+Creación de carpeta de script.  
+Cargue de script de R en la carpeta.
+Edición de script directamente desde Github
 - Samuel Salazar Diaz
 Cargo las carpetas principales de bioética y referencias, junto con la información en ellas. Contribuí en la carpeta de datos con la carpeta de Proyecto I+D con información del proyecto y manuscrito, además de proporcionar scripts de secuenciación NGS. Y también actualice el README.
