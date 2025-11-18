@@ -62,9 +62,9 @@ Carpeta resultados y su contenido
 Archivos en scrips para complementar
 Carpeta dataset y su contenido
 - Luisa Ospina Londoño
-Carpeta datos.Archivos de miRNAS con datos necesarios para el analisis.
-Trabajo en el brazo miRNA
-Imagenes en la carpeta genes diana.
+Carpeta Datos. Contiene los archivos de miRNAs con la información necesaria para el análisis.
+Carpeta dentro de datos llamada IMAGENES, con información de genes diana.
+Trabajo en el brazo miRNA. 
 - Miller Esneyder Vargas Santiago
 En la carpetas de resultados gráficas, diagrama de Venn, archivos Txt genes diana
 Carpeta de guiones: cargue de documento el arte de programar en R
