@@ -1,8 +1,10 @@
+
+#### scritp para realizar analisis de rangoos genomicos
 install.packages("installr")
 library("installr")
-updateR()
+updateR() # autoriza R
 BiocManager::install("GenomicRanges")
-library(GenomicRanges)
+library(GenomicRanges) #libreria para manejar rangos genomicos
 library(ggbio)
 
 
@@ -299,3 +301,4 @@ p <- p + layout_circle(as(seqinfo(ideoCyto$hg19),"GRanges"),
                        size=3) 
 
 p
+
