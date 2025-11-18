@@ -37,7 +37,7 @@ autoplot(Homo.sapiens, which=wh, stat="reduce")
 
 
 
-###TxDb object
+###TxDb object #graficar genes
 BiocManager::install("TxDb.Hsapiens.UCSC.hg19.knownGene")
 library(TxDb.Hsapiens.UCSC.hg19.knownGene)
 txdb <- TxDb.Hsapiens.UCSC.hg19.knownGene
@@ -89,3 +89,4 @@ p.bg
 
 
 fl.bam <- system.file("extdata", "wg-brca1.sorted.bam",package = "biovizBase")
+
