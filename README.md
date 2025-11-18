@@ -30,6 +30,7 @@ los estudiantes
 ```
 
 miRNA_arteriosclerosis/
+├── Dataset/           # Archivos con extension ".csv".
 ├── Bioética/          # Permisos de bioética, consentimiento y confidencialidad.   
 ├── Datos/             # Archivos de la propuesta de investigación y genes diana predichos para los miRNAs.
 ├── Scripts/           # Scripts en Python o R usados para procesamiento, análisis y visualización.
