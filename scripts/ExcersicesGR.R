@@ -1,3 +1,5 @@
+#tutorial de Rtraclayer
+
 dir(system.file("extdata", package = "compGenomRData"))
 
 
@@ -82,3 +84,4 @@ ucscGenomes()
 BiocManager::install("Gviz")
 
 library(Gviz)
+
