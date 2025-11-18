@@ -1,3 +1,5 @@
+# tutorial de principales funciones estadisticas
+
 HIV <- dpois(x=0:12, lambda = 5)
 barplot(HIV, names.arg = 0:12, col="purple")
 
@@ -20,3 +22,4 @@ round(probability,2)
 
 barplot(probability)
 1+1
+
