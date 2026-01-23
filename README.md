@@ -56,21 +56,4 @@ cd miRNA_arteriosclerosis
 ---
 ## Proyecto desarrollado por:
 
-- Samuel David Espitia Contreras: 
-Update de archivo readme
-Carpeta resultados y su contenido 
-Archivos en scrips para complementar
-Carpeta dataset y su contenido
-- Luisa Ospina Londoño
-Carpeta Datos. Contiene los archivos de miRNAs con la información necesaria para el análisis.
-Carpeta dentro de datos llamada IMAGENES, con información de genes diana.
-Trabajo en el brazo miRNA. 
-- Miller Esneyder Vargas Santiago
-En la carpetas de resultados gráficas, diagrama de Venn, archivos Txt genes diana
-Carpeta de guiones: cargue de documento el arte de programar en R
-- Frank Melo Restrepo
-Creación de carpeta de script.  
-Cargue de script de R en la carpeta.
-Edición de script directamente desde Github
 - Samuel Salazar Diaz
-Cargo las carpetas principales de bioética y referencias, junto con la información en ellas. Contribuí en la carpeta de datos con la carpeta de Proyecto I+D con información del proyecto y manuscrito, además de proporcionar scripts de secuenciación NGS. Y también actualice el README.
